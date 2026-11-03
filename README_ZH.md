@@ -4,6 +4,19 @@
 
 [English](README.md) · [模型说明](docs/MODEL_SCOPE.md) · [运行结果](docs/RESULTS.md) · [来源与许可](THIRD_PARTY_NOTICES.md)
 
+## 原论文信息
+
+| 项目 | 信息 |
+|---|---|
+| 题目 | **Dynamic Collision Avoidance Using Velocity Obstacle-Based Control Barrier Functions** |
+| 作者 | Jihao Huang, Jun Zeng, Xuemin Chi, Koushil Sreenath, Zhitao Liu, Hongye Su |
+| 发表信息 | IEEE Transactions on Control Systems Technology，第 33 卷第 5 期，1601–1615 页，2025 年 9 月。 |
+| DOI | [10.1109/TCST.2025.3546076](https://doi.org/10.1109/TCST.2025.3546076) |
+| 出版社入口 | [IEEE Xplore](https://ieeexplore.ieee.org/document/10916817/) |
+| 开放全文 | [arXiv:2503.00606](https://arxiv.org/abs/2503.00606) · [预印本 PDF（v2）](https://arxiv.org/pdf/2503.00606v2) · [HTML（v2）](https://arxiv.org/html/2503.00606v2) |
+
+使用原始方法时请引用此论文。实现范围与模型扩展见下文；仓库开发署名单独列于[作者与维护者](#作者与维护者)。
+
 ## 复现范围
 
 依据原文方程独立实现五状态加速度输入独轮车，包括四个 CLF、主值 arctan 坐标分支、移动障碍物导数、软松弛和左右侧析取。没有可核验的作者程序，不声称精确复现作者图像；原文未给出的权重、增益和几何均明确说明。
@@ -126,13 +139,17 @@ python -m vocbf run --model dynamic_unicycle --output runs/dynamic_unicycle
 
 独立 Python 实现、模型扩展、demo 与仓库维护：**[Yo Kotaku（@youkoutaku）](https://github.com/youkoutaku)**。原论文作者为 **Jihao Huang, Jun Zeng, Xuemin Chi, Koushil Sreenath, Zhitao Liu, Hongye Su**。使用方法时请引用原文；[CITATION.cff](CITATION.cff)单独记录仓库作者信息。
 
+## AI 辅助编程声明
+
+本仓库开发使用了 **OpenAI Codex 辅助编程（AI coding）**，涉及代码实现与重构、测试、demo 工具和文档编写。[验证与结果记录](docs/RESULTS.md)说明了实际执行的检查及其适用边界。本声明针对仓库开发过程；原始方法的学术贡献归属于上述论文作者。
+
 ## 发布准备
 
 ```sh
 python scripts/export_public.py --output dist/VOCBF-Python-public.zip
 ```
 
-公开 ZIP 使用明确的源码/文档白名单，包含逐文件 SHA256 清单；排除 `.venv`、`.upstream`、`.local-reference`、`runs`、Git 内部文件及旧归档。若 ZIP 已存在，请换一个输出文件名。已提供 CI 配置，远端执行需在发布后验证。此准备过程不创建 GitHub 远端、Release、提交或推送。
+公开 ZIP 使用明确的源码/文档白名单，包含逐文件 SHA256 清单；排除 `.venv`、`.upstream`、`.local-reference`、`runs`、Git 内部文件及旧归档。若 ZIP 已存在，请换一个输出文件名。[GitHub Actions](https://github.com/youkoutaku/VOCBF-Python/actions/workflows/ci.yml)在 Ubuntu / Python 3.12 上运行单元测试与公式验证。导出命令生成本地归档。
 
 ## 许可与归属
 

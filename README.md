@@ -4,6 +4,19 @@ Standalone Python reproduction and clearly separated model extensions for **Dyna
 
 [中文说明](README_ZH.md) · [Model contracts](docs/MODEL_SCOPE.md) · [Results](docs/RESULTS.md) · [Source and licensing](THIRD_PARTY_NOTICES.md)
 
+## Original paper
+
+| Field | Details |
+|---|---|
+| Title | **Dynamic Collision Avoidance Using Velocity Obstacle-Based Control Barrier Functions** |
+| Authors | Jihao Huang, Jun Zeng, Xuemin Chi, Koushil Sreenath, Zhitao Liu, Hongye Su |
+| Publication | IEEE Transactions on Control Systems Technology, vol. 33, no. 5, pp. 1601–1615, September 2025. |
+| DOI | [10.1109/TCST.2025.3546076](https://doi.org/10.1109/TCST.2025.3546076) |
+| Publisher | [IEEE Xplore](https://ieeexplore.ieee.org/document/10916817/) |
+| Open full text | [arXiv:2503.00606](https://arxiv.org/abs/2503.00606) · [Preprint PDF (v2)](https://arxiv.org/pdf/2503.00606v2) · [HTML (v2)](https://arxiv.org/html/2503.00606v2) |
+
+Please cite this paper when using the original method. The implementation scope and model extensions are described below; repository authorship is listed separately under [Author and maintainer](#author-and-maintainer).
+
 ## Reproduction scope
 
 Independent implementation of the paper equations on the original five-state acceleration-controlled unicycle, including the four CLFs, literal principal arctan chart, moving-obstacle derivative, soft slacks and side disjunctions. No verified author implementation or exact author-figure reproduction is claimed. Unspecified cost weights/gains and example geometry are declared.
@@ -127,13 +140,17 @@ python -m vocbf run --model dynamic_unicycle --output runs/dynamic_unicycle
 
 Independent Python implementation, model extensions, demos and repository maintenance: **[Yo Kotaku (@youkoutaku)](https://github.com/youkoutaku)**. Original paper authors: **Jihao Huang, Jun Zeng, Xuemin Chi, Koushil Sreenath, Zhitao Liu, Hongye Su**. Cite the original paper when using the method; [CITATION.cff](CITATION.cff) records repository authorship separately.
 
+## AI-assisted coding disclosure
+
+This repository was developed with **AI-assisted coding using OpenAI Codex**. AI assistance was used for implementation and refactoring, tests, demo tooling, and documentation. The [verification and results records](docs/RESULTS.md) describe the checks actually performed and their limitations. This disclosure concerns repository development; credit for the original methods remains with the paper authors listed above.
+
 ## Publication preparation
 
 ```sh
 python scripts/export_public.py --output dist/VOCBF-Python-public.zip
 ```
 
-The archive uses an explicit source/documentation allowlist and includes a SHA256 manifest. It excludes `.venv`, `.upstream`, `.local-reference`, `runs`, Git internals and old archives. Choose a new filename if the target ZIP exists. CI configuration is supplied; remote execution remains untested until publication. This preparation creates no GitHub remote, release, commit or push.
+The archive uses an explicit source/documentation allowlist and includes a SHA256 manifest. It excludes `.venv`, `.upstream`, `.local-reference`, `runs`, Git internals and old archives. Choose a new filename if the target ZIP exists. [GitHub Actions](https://github.com/youkoutaku/VOCBF-Python/actions/workflows/ci.yml) runs the unit tests and formula verification on Ubuntu with Python 3.12. The export command creates a local archive.
 
 ## License and attribution
 
