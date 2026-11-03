@@ -1,0 +1,191 @@
+{
+  "created_at_utc": "2026-11-03T12:20:22.535812+00:00",
+  "scope": "Locally executed standalone illustrative model extensions; not the frozen comparison or independent scenario sample.",
+  "records": [
+    {
+      "method": "vocbf",
+      "model": "single_integrator",
+      "model_extension": true,
+      "offset": 0.15,
+      "initial": [
+        0.0,
+        0.0
+      ],
+      "goal": [
+        4.0,
+        2.0
+      ],
+      "obstacles": [
+        [
+          2.0,
+          0.4
+        ]
+      ],
+      "inflated_radii": [
+        0.45
+      ],
+      "dt": 0.05,
+      "requested_steps": 400,
+      "executed_steps": 165,
+      "outcome": "goal_complete",
+      "final_goal_error": 0.01470537910927994,
+      "minimum_sampled_clearance": 0.21363808057989858,
+      "collision_sampled": false,
+      "solver_fallbacks": 0,
+      "verification": "21 independent DOP853 samples per hold; no interval enclosure or sampled-safety theorem claimed",
+      "python": "3.12.15",
+      "platform": "macOS-27.0.1-arm64-arm-64bit",
+      "input_semantics": "control stores filter acceleration; plant commands are continuous velocity ramps recorded in events",
+      "dynamic_extension": true,
+      "artifacts": {
+        "evidence/examples/single_integrator/events.json": "9ddcf88c0440f13d93477312214b3b11fbdf4d223e1d2edc715d18fa1bc4ab5b",
+        "evidence/examples/single_integrator/summary.json": "7e016fcb60016a0b60f6ee86fd690c4651e4ab2a59e155061a3d10cb989c3e85",
+        "evidence/examples/single_integrator/trajectory.npz": "61bf61fc8cd50c07b788c5ed88f017a2348b08232e7fbf19ab0078b25da69c9d"
+      }
+    },
+    {
+      "method": "vocbf",
+      "model": "double_integrator",
+      "model_extension": true,
+      "offset": 0.15,
+      "initial": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "goal": [
+        4.0,
+        2.0
+      ],
+      "obstacles": [
+        [
+          2.0,
+          0.4
+        ]
+      ],
+      "inflated_radii": [
+        0.45
+      ],
+      "dt": 0.05,
+      "requested_steps": 400,
+      "executed_steps": 165,
+      "outcome": "goal_complete",
+      "final_goal_error": 0.01470537910927994,
+      "minimum_sampled_clearance": 0.21363808057989858,
+      "collision_sampled": false,
+      "solver_fallbacks": 0,
+      "verification": "21 independent DOP853 samples per hold; no interval enclosure or sampled-safety theorem claimed",
+      "python": "3.12.15",
+      "platform": "macOS-27.0.1-arm64-arm-64bit",
+      "input_semantics": "held physical control",
+      "dynamic_extension": false,
+      "artifacts": {
+        "evidence/examples/double_integrator/events.json": "3efbc27e86ecab9803aff4f0e6991fefbcbf0f96cf48622a9edd877b869b5d1e",
+        "evidence/examples/double_integrator/summary.json": "046124ee0ab9dcd6aead15fdaf667a197266c514679189a34f4a3e8f1856b4c7",
+        "evidence/examples/double_integrator/trajectory.npz": "be71c7ccb86a0e2bca22b930e7c1e6826c8b226ec9b0e0af78b83669196ffd03"
+      }
+    },
+    {
+      "method": "vocbf",
+      "model": "kinematic_unicycle",
+      "model_extension": true,
+      "offset": 0.15,
+      "initial": [
+        -0.13416407864998736,
+        -0.06708203932499368,
+        0.4636476090008061
+      ],
+      "goal": [
+        4.0,
+        2.0
+      ],
+      "obstacles": [
+        [
+          2.0,
+          0.4
+        ]
+      ],
+      "inflated_radii": [
+        0.45
+      ],
+      "dt": 0.05,
+      "requested_steps": 400,
+      "executed_steps": 147,
+      "outcome": "goal_complete",
+      "final_goal_error": 0.06081456762332112,
+      "minimum_sampled_clearance": 0.08665664906371578,
+      "collision_sampled": false,
+      "solver_fallbacks": 0,
+      "verification": "21 independent DOP853 samples per hold; no interval enclosure or sampled-safety theorem claimed",
+      "python": "3.12.15",
+      "platform": "macOS-27.0.1-arm64-arm-64bit",
+      "input_semantics": "control stores filter acceleration; plant commands are continuous velocity ramps recorded in events",
+      "dynamic_extension": true,
+      "artifacts": {
+        "evidence/examples/kinematic_unicycle/events.json": "7577f0835a086ac0c2a1ef16f89f282d051d4dafb23a8bee59a8209a99f8d1ac",
+        "evidence/examples/kinematic_unicycle/summary.json": "29ca040dfcc9380987a7469a8b44a6cd0b566367f83c7cbfe5718f8dc77319c2",
+        "evidence/examples/kinematic_unicycle/trajectory.npz": "a18a492613061f0be9508640ede4fe73434f99b9f77d2699171529df629acca9"
+      }
+    },
+    {
+      "method": "vocbf",
+      "model": "dynamic_unicycle",
+      "model_extension": true,
+      "offset": 0.15,
+      "initial": [
+        -0.13416407864998736,
+        -0.06708203932499368,
+        0.4636476090008061,
+        0.0,
+        0.0
+      ],
+      "goal": [
+        4.0,
+        2.0
+      ],
+      "obstacles": [
+        [
+          2.0,
+          0.4
+        ]
+      ],
+      "inflated_radii": [
+        0.45
+      ],
+      "dt": 0.05,
+      "requested_steps": 400,
+      "executed_steps": 147,
+      "outcome": "goal_complete",
+      "final_goal_error": 0.06081456762332112,
+      "minimum_sampled_clearance": 0.08665664906371578,
+      "collision_sampled": false,
+      "solver_fallbacks": 0,
+      "verification": "21 independent DOP853 samples per hold; no interval enclosure or sampled-safety theorem claimed",
+      "python": "3.12.15",
+      "platform": "macOS-27.0.1-arm64-arm-64bit",
+      "input_semantics": "held physical control",
+      "dynamic_extension": false,
+      "artifacts": {
+        "evidence/examples/dynamic_unicycle/events.json": "3d7845c23ba3702fb8c4d94567db7e6bae8cd3a9bcb0acff7241ba8ef791a74b",
+        "evidence/examples/dynamic_unicycle/summary.json": "930547db7cd06fcd7a4cdac422d3a0c8f08627921479021fc1f3eba809f46856",
+        "evidence/examples/dynamic_unicycle/trajectory.npz": "9c642002fb06da5b9fcb22a056a57cd1cbf13687ca98d490cf3f2f25e95a0b37"
+      }
+    }
+  ],
+  "source_sha256": {
+    "src/vocbf/__init__.py": "679c49ac47098c835e13d303df583f705e4f2ef008c6005b667cb52a4de3b7c9",
+    "src/vocbf/__main__.py": "8cc08bfcb6b1e8841929e467b100eee16886367cd689792ecc06791fc0bf575c",
+    "src/vocbf/controller.py": "a9e4b2441c339dcb46fdde3d1e10139656e14fdbcc440ac0599102d3ffc92866",
+    "src/vocbf/models.py": "56cdee522bf2f8ae8d02e4bebaa79eb1de2e8e8c7c32dcced563d4690604d3e9",
+    "src/vocbf/native_runner.py": "6fdd204c40911e32e6fc38ce351704a0417d956ff0e66be6a2a0e4c4c10f5f14",
+    "src/vocbf/paper_reference.py": "92396545486f262a8925375f9ca414612eba698ee260051c7b0eb5cfb02acf48",
+    "src/vocbf/qp.py": "7a4bcf5edf29bce0862688045de374d2b0d32fe3b09b4645af99c15a5b45837f",
+    "src/vocbf/simulation.py": "3d84ca79e21d0d5630986b3902b894a49e8d19cf40765362a9c2bb5197be957e",
+    "src/vocbf/symbolic_reference.py": "3db98fa48b2355ca0bb621799a1bee6351711c9a8242179e952807d3ea60899a",
+    "src/vocbf/validation.py": "65080794b6c0e9649dd58cdb228fa2f0347073a14b4229331f00a1e9ca85442c",
+    "src/vocbf/vocbf_intervals.py": "f7b8d42806d2b8c13151ad5d915ba352d159e9bc6075bca6a49a1b0f6a8d7526"
+  },
+  "regression_tests_passed": 4,
+  "regression_scope": "Model input contracts, QP infeasibility, nondefault hold duration and ZOCBF fallback bounds."
+}

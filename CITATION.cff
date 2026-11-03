@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Cite the original paper when using this implementation. This repository is not author code."
+title: "VOCBF-Python: reproduction and model extensions"
+type: software
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: "Kotaku"
+    given-names: "Yo"
+    website: "https://github.com/youkoutaku"
+references:
+  - type: article
+    title: "Dynamic Collision Avoidance Using Velocity Obstacle-Based Control Barrier Functions"
+    url: "https://arxiv.org/html/2503.00606v2"

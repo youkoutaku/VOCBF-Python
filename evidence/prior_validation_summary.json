@@ -1,0 +1,19 @@
+{
+  "source_report_sha256": "8db5c5f9c6d095cce6261b49e79c95ab4675918f4724895af46f711a813af9cb",
+  "prior_execution_only": true,
+  "native_author_code": false,
+  "exact_author_figure": false,
+  "source": "https://arxiv.org/html/2503.00606v2",
+  "summary": {
+    "passed": true,
+    "created_at_utc": "2026-11-03T04:56:38.073379+00:00",
+    "identity": "independent equation reproduction, not author-source execution",
+    "historical_qps": 19125,
+    "historical_crosscheck_passed": true,
+    "original_figure_reproduction_passed": false,
+    "unresolved": [
+      "No verified author code, original obstacle geometry/initial states, or numerical H/R/P and feedback gains",
+      "Eq14 literal arctan differs from previous wrapped atan2 chart; both are reported, neither is proven to match unpublished author code"
+    ]
+  }
+}

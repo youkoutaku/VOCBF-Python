@@ -1,0 +1,5790 @@
+[
+  {
+    "status": "ok",
+    "objective": 8464.890999999998,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.927952490170813,
+          -1.881076906942388
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      20.0,
+      0.0
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        0.927952490170813,
+        -1.881076906942388
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 6865.138253040048,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.9746276090909978,
+          -1.9745683273228645
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      19.45075503125,
+      0.004050000000000002
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        0.9746276090909978,
+        -1.9745683273228645
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.04640217049769829,
+        -0.0940446309557107
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 5444.532922488024,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0218817107748495,
+          -2.0668873808016683
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      18.8838605,
+      0.01620000000000001
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.0218817107748495,
+        -2.0668873808016683
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.0928317306626897,
+        -0.18803376685312198
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 4201.989441871502,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0697600503548312,
+          -2.1579458489472327
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      18.30062253125,
+      0.03645000000000002
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.0697600503548312,
+        -2.1579458489472327
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.13931664317657733,
+        -0.2819108622235531
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 3134.8187420223962,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.1183212672974174,
+          -2.2476311826781314
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      17.702408,
+      0.06480000000000004
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.1183212672974174,
+        -2.2476311826781314
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.18588603729341982,
+        -0.37561723847922207
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 2238.653236708068,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.1676390926139806,
+          -2.3358036858449474
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      17.09064453125,
+      0.10125000000000005
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.1676390926139806,
+        -2.3358036858449474
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.23257084454378654,
+        -0.4690909353406083
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 1507.468824996023,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.217804627661961,
+          -2.4222928393114405
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      16.466820499999997,
+      0.14580000000000007
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.217804627661961,
+        -2.4222928393114405
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.2794045003702199,
+        -0.5622654602622298
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 933.6240341287024,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.268929304624834,
+          -2.5068926321484026
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      15.83248503125,
+      0.19845000000000015
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.268929304624834,
+        -2.5068926321484026
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.32642373892594734,
+        -0.6550683957716374
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 507.91745251839745,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.3211486760016549,
+          -2.5893557308111204
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      15.189247999999996,
+      0.2592000000000002
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.3211486760016549,
+        -2.5893557308111204
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.37366951319410996,
+        -0.7474198192211591
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 219.66462830657807,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.3746272265463628,
+          -2.6693862782687403
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      14.538780031249999,
+      0.3280500000000003
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.3746272265463628,
+        -2.6693862782687403
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4211880792946,
+        -0.8392304824770762
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 56.79563476562429,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.4295644586497207,
+          -2.7466310743696623
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      13.882812499999996,
+      0.4050000000000004
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.4295644586497207,
+        -2.7466310743696623
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.46903229274715447,
+        -0.9303996904862323
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 5.971990007663914,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.4829905205733773,
+          -2.8172248085891116
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      13.223137531249996,
+      0.49005000000000043
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.4829905205733773,
+        -2.8172248085891116
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5172631760738091,
+        -1.020812807530407
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 5.648153273166936,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0893566690332688,
+          -2.4050485941694766
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      12.561852660812649,
+      0.5831007096878879
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.0893566690332688,
+        -2.4050485941694766
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5657917567888521,
+        -1.110168122930845
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 5.116632452029042,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.6865061292457594,
+          -1.9887036918318102
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      11.93369906904278,
+      0.66908026133299
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        0.6865061292457594,
+        -1.9887036918318102
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5923359380689479,
+        -1.17468361196799
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 4.50631868136279,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.28173887147077603,
+          -1.5783657342401445
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      11.337095513613075,
+      0.7455503646398338
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        0.28173887147077603,
+        -1.5783657342401445
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5975280403474195,
+        -1.2154341637275314
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 4.070842623651104,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      10.77060534537675,
+      0.8113348585919353
+    ],
+    "minimum_physical_residual": 0.02250075000947893,
+    "OR_residuals": [
+      [
+        -1.1102230246251565e-16,
+        -1.28593038462239
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5823370680635385,
+        -1.2339394317624996
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 3.9794818004524184,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      10.232697704234031,
+      0.8686068708430725
+    ],
+    "minimum_physical_residual": 0.09969113035972177,
+    "OR_residuals": [
+      [
+        -3.3306690738754696e-16,
+        -1.242573585172082
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5538929446235213,
+        -1.2371172281312652
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 3.8532188824588607,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      9.722167770528142,
+      0.9223415799043673
+    ],
+    "minimum_physical_residual": 0.172178040754135,
+    "OR_residuals": [
+      [
+        0.0,
+        -1.199517670761085
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5268413571314334,
+        -1.2379242451061152
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 3.699130772115143,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      9.237587641463225,
+      0.9721574159816009
+    ],
+    "minimum_physical_residual": 0.24017730848122698,
+    "OR_residuals": [
+      [
+        -1.1102230246251565e-16,
+        -1.1566752928086097
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.501115536448377,
+        -1.236495613639634
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 3.5249173388275232,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      8.777606305054563,
+      1.017797128585332
+    ],
+    "minimum_physical_residual": 0.30389349204171723,
+    "OR_residuals": [
+      [
+        -3.3306690738754696e-16,
+        -1.1139504002819423
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.47665188972773836,
+        -1.2329549355888345
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 3.3373927184556083,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      8.340945408311837,
+      1.0591080080374986
+    ],
+    "minimum_physical_residual": 0.3635194712495814,
+    "OR_residuals": [
+      [
+        -1.1102230246251565e-16,
+        -1.071237362114199
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.45338987263504454,
+        -1.2274144274934402
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 3.142426229596446,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      7.9263952523489865,
+      1.0960247498000635
+    ],
+    "minimum_physical_residual": 0.4192360195473187,
+    "OR_residuals": [
+      [
+        -2.220446049250313e-16,
+        -1.0284199388685744
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.431271866855677,
+        -1.219975006191411
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.9449531756141796,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      7.532811015997922,
+      1.1285546648923788
+    ],
+    "minimum_physical_residual": 0.47121127535894414,
+    "OR_residuals": [
+      [
+        -5.551115123125783e-17,
+        -0.9853701597550315
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.41024306327505805,
+        -1.2107263118042724
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.749030247875154,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      7.159109196972062,
+      1.1567649791247963
+    ],
+    "minimum_physical_residual": 0.5196000604882185,
+    "OR_residuals": [
+      [
+        0.0,
+        -0.9419471406694592
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.39025135123408405,
+        -1.19974666663003
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.557917532878321,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.80426426041278,
+      1.18077199771878
+    ],
+    "minimum_physical_residual": 0.5645429818007918,
+    "OR_residuals": [
+      [
+        1.1102230246251565e-16,
+        -0.8979959006703961
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.371247214282874,
+        -1.187102970383712
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.3741746341293615,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.467305485577082,
+      1.2007319442932292
+    ],
+    "minimum_physical_residual": 0.6061652351809177,
+    "OR_residuals": [
+      [
+        0.0,
+        -0.8533462668748384
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3531836328994687,
+        -1.1728505352220893
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.1997625829944565,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.147314002531422,
+      1.2168333150692487
+    ],
+    "minimum_physical_residual": 0.643946734541548,
+    "OR_residuals": [
+      [
+        5.551115123125783e-17,
+        -0.8078120052824271
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.33601599471014665,
+        -1.1570328686019684
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.036146383149508,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      5.843420012074885,
+      1.2292906216351
+    ],
+    "minimum_physical_residual": 0.633204207702061,
+    "OR_residuals": [
+      [
+        0.0,
+        -0.761190383041893
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.31970201284962374,
+        -1.1396814189636606
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.8830224388593864,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.058097555923781796,
+          -0.7472357489398465
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      5.554800183832543,
+      1.2383394302682973
+    ],
+    "minimum_physical_residual": 0.6684326383020448,
+    "OR_residuals": [
+      [
+        0.058097555923781796,
+        -0.7472357489398465
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.30420165324067333,
+        -1.1208153094636615
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.7263265090047402,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.17803194515303916,
+          -0.7588570475428116
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      5.280609682233489,
+      1.2444070521667312
+    ],
+    "minimum_physical_residual": 0.7548763086321074,
+    "OR_residuals": [
+      [
+        0.17803194515303916,
+        -0.7588570475428116
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.2923461293254155,
+        -1.102025982187211
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.5679952147692513,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.258508203039876,
+          -0.7341161853630371
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      5.020060909124315,
+      1.2475770084976787
+    ],
+    "minimum_physical_residual": 0.8089305982419749,
+    "OR_residuals": [
+      [
+        0.258508203039876,
+        -0.7341161853630371
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.287015256145444,
+        -1.0844496986670404
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.4176968609066332,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3081418595509773,
+          -0.6820496477795992
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      4.772504956274069,
+      1.2476493684523688
+    ],
+    "minimum_physical_residual": 0.8358998303938826,
+    "OR_residuals": [
+      [
+        0.3081418595509773,
+        -0.6820496477795992
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.2859511535470801,
+        -1.0662768268918341
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.2783883412702948,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3415565180793971,
+          -0.6131642114790188
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      4.537301456789016,
+      1.2446881688193756
+    ],
+    "minimum_physical_residual": 0.8470994907774326,
+    "OR_residuals": [
+      [
+        0.3415565180793971,
+        -0.6131642114790188
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.28743358435914823,
+        -1.0462328811705246
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.1505806399026663,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.36802240009428455,
+          -0.5334923692401129
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      4.313828993937085,
+      1.2388760330901736
+    ],
+    "minimum_physical_residual": 0.8390514046176293,
+    "OR_residuals": [
+      [
+        0.36802240009428455,
+        -0.5334923692401129
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.29054918984739697,
+        -1.0236098240032723
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.0340055661192868,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3927850441766473,
+          -0.4462490000082687
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      4.10149362242733,
+      1.230432616663182
+    ],
+    "minimum_physical_residual": 0.8156745637865029,
+    "OR_residuals": [
+      [
+        0.3927850441766473,
+        -0.4462490000082687
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.29488783344983,
+        -0.9980242858937
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.9281200718078724,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4189076741355072,
+          -0.35339407243724413
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      3.8997308095326466,
+      1.2195847991711677
+    ],
+    "minimum_physical_residual": 0.7951705996144597,
+    "OR_residuals": [
+      [
+        0.4189076741355072,
+        -0.35339407243724413
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3003194884050535,
+        -0.9692702063795904
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.8322730176927453,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4483515630794116,
+          -0.2565557085042111
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      3.7080049271967988,
+      1.206556102295767
+    ],
+    "minimum_physical_residual": 0.7769149832295753,
+    "OR_residuals": [
+      [
+        0.4483515630794116,
+        -0.2565557085042111
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.30687268634914444,
+        -0.9372543568983727
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.7457709440576016,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4825089791240072,
+          -0.15756235062026883
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      3.525808033212981,
+      1.191562610784951
+    ],
+    "minimum_physical_residual": 0.7605203931438155,
+    "OR_residuals": [
+      [
+        0.4825089791240072,
+        -0.15756235062026883
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.31467173391867687,
+        -0.9019794291458959
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.6679100977720589,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.5224249139313161,
+          -0.05875885716836113
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      3.352658491827805,
+      1.1748111923056248
+    ],
+    "minimum_physical_residual": 0.745730650508898,
+    "OR_residuals": [
+      [
+        0.5224249139313161,
+        -0.05875885716836113
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.32390256570753156,
+        -0.8635531056557385
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.5979951036132467,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.568834175519785,
+          0.03683376532788635
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      3.1880995987130256,
+      1.1564986313408243
+    ],
+    "minimum_physical_residual": 0.7323643486814945,
+    "OR_residuals": [
+      [
+        0.568834175519785,
+        0.03683376532788635
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3347901817717696,
+        -0.8222105420284445
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.5353510735291825,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.6220724935002735,
+          0.1255275930672476
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      3.0316982586026087,
+      1.1368111944497516
+    ],
+    "minimum_physical_residual": 0.7202843410909395,
+    "OR_residuals": [
+      [
+        0.6220724935002735,
+        0.1255275930672476
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3475777211265896,
+        -0.7783406414778056
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.47933175735509337,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.6818950925148898,
+          0.2031904656239415
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.8830437282966392,
+      1.1159244410683493
+    ],
+    "minimum_physical_residual": 0.7093808344643918,
+    "OR_residuals": [
+      [
+        0.6818950925148898,
+        0.2031904656239415
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.36250081676067697,
+        -0.7325060674077445
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.4293249478351501,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.7472438031315011,
+          0.2657139494186681
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.7417464265860003,
+      1.0940031971716038
+    ],
+    "minimum_physical_residual": 0.6995617786907303,
+    "OR_residuals": [
+      [
+        0.7472438031315011,
+        0.2657139494186681
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3797533839323578,
+        -0.685445673740518
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.38475584028161347,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.8160365068408664,
+          0.3096927030204337
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.6074368091136586,
+      1.0712016477739745
+    ],
+    "minimum_physical_residual": 0.6907472549023851,
+    "OR_residuals": [
+      [
+        0.8160365068408664,
+        0.3096927030204337
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.39944415074337747,
+        -0.6380485697807728
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.34508882631005866,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.8850938016037054,
+          0.33317210260691854
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.4797643051133855,
+      1.0476635203338718
+    ],
+    "minimum_physical_residual": 0.6828661029161737,
+    "OR_residuals": [
+      [
+        0.8850938016037054,
+        0.33317210260691854
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.421548027473041,
+        -0.5912938597165618
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.30982808442695675,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.9503309987217722,
+          0.3362185359913149
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.3583963127179177,
+      1.0235223388437695
+    ],
+    "minimum_physical_residual": 0.6758538305037348,
+    "OR_residuals": [
+      [
+        0.9503309987217722,
+        0.3362185359913149
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4458624115858262,
+        -0.5461601118009248
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.2785172551656867,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0072833047164138,
+          0.32105590295338365
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.243017249563941,
+      0.9989017327594181
+    ],
+    "minimum_physical_residual": 0.669651272394782,
+    "OR_residuals": [
+      [
+        1.0072833047164138,
+        0.32105590295338365
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.47198320107658703,
+        -0.503521224437274
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.2507384329419033,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.051886793962134,
+          0.29165110956918766
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.133327655553342,
+      0.9739157878212563
+    ],
+    "minimum_physical_residual": 0.6642036973738158,
+    "OR_residuals": [
+      [
+        1.051886793962134,
+        0.29165110956918766
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.49931459528273037,
+        -0.46405425231357017
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.22611066254073128,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0812760708351785,
+          0.2528728812664681
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.029043344792039,
+      0.9486694279839083
+    ],
+    "minimum_physical_residual": 0.6594601891440007,
+    "OR_residuals": [
+      [
+        1.0812760708351785,
+        0.2528728812664681
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5271181554185473,
+        -0.4281834438011585
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.20428809168517337,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0943040727709343,
+          0.20953932943974524
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.9298946038948817,
+      0.9232588194036879
+    ],
+    "minimum_physical_residual": 0.6553731983166046,
+    "OR_residuals": [
+      [
+        1.0943040727709343,
+        0.20953932943974524
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5545926521708007,
+        -0.39607224498892574
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.18495790075066873,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0916045895841473,
+          0.16567877216722027
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.8356254340080884,
+      0.8977717888806829
+    ],
+    "minimum_physical_residual": 0.6518982039840623,
+    "OR_residuals": [
+      [
+        1.0916045895841473,
+        0.16567877216722027
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5809644589692631,
+        -0.3676580044173076
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.16783810534213647,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0752301141312985,
+          0.12416987121583101
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.7459928340566708,
+      0.872288250382969
+    ],
+    "minimum_physical_residual": 0.6489934473187177,
+    "OR_residuals": [
+      [
+        1.0752301141312985,
+        0.12416987121583101
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6055656013975623,
+        -0.3427119831456866
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.15267530637745924,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0480603806377924,
+          0.08673469672472124
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.660766122871697,
+      0.8468806343382947
+    ],
+    "minimum_physical_residual": 0.6466197138684479,
+    "OR_residuals": [
+      [
+        1.0480603806377924,
+        0.08673469672472124
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6278837388868037,
+        -0.32090491267507704
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.1392424449060495,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0132068512025656,
+          0.05414847708262843
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.579726297991249,
+      0.8216143152908544
+    ],
+    "minimum_physical_residual": 0.644740149800073,
+    "OR_residuals": [
+      [
+        1.0132068512025656,
+        0.05414847708262843
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6475799419194059,
+        -0.301863743525198
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.12733660460065638,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.9735629931443202,
+          0.026522518392451816
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.5026654290597847,
+      0.7965480343084628
+    ],
+    "minimum_physical_residual": 0.6433201025970462,
+    "OR_residuals": [
+      [
+        0.9735629931443202,
+        0.026522518392451816
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6644797385783356,
+        -0.28521309709493603
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.11677689322835808,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.931547714846105,
+          0.0035654004654357002
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.4293860838734243,
+      0.7717343132050447
+    ],
+    "minimum_physical_residual": 0.6423269799836447,
+    "OR_residuals": [
+      [
+        0.931547714846105,
+        0.0035654004654357002
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6785473907809023,
+        -0.27060116497345726
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.10740242502314512,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.8890164186814543,
+          -0.015218068887628042
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.3597007852341465,
+      0.7472198582287052
+    ],
+    "minimum_physical_residual": 0.6417301229094875,
+    "OR_residuals": [
+      [
+        0.8890164186814543,
+        -0.015218068887628042
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.689853217641058,
+        -0.2577130589249602
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.09907041838886986,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.8472844726688267,
+          -0.030394333897026546
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.2934314968842693,
+      0.7230459513685484
+    ],
+    "minimum_physical_residual": 0.6415006897468715,
+    "OR_residuals": [
+      [
+        0.8472844726688267,
+        -0.030394333897026546
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6985411697932908,
+        -0.24627546476343085
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.09165441744575001,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.8072090608352056,
+          -0.04252261841696302
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.2304091368943548,
+      0.6992488278642491
+    ],
+    "minimum_physical_residual": 0.6416115497098872,
+    "OR_residuals": [
+      [
+        0.8072090608352056,
+        -0.04252261841696302
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.704800755667547,
+        -0.23605599497167695
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0850426413265958,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.769289982734072,
+          -0.05211436186655133
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.1704731169732105,
+      0.6758600388700885
+    ],
+    "minimum_physical_residual": 0.6420371840688276,
+    "OR_residuals": [
+      [
+        0.769289982734072,
+        -0.05211436186655133
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.7088449188137295,
+        -0.22685973712850835
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0791364615994457,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.7337661396565474,
+          -0.0596165878159446
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.11347090625836,
+      0.6529067985377466
+    ],
+    "minimum_physical_residual": 0.6427535941099635,
+    "OR_residuals": [
+      [
+        0.7337661396565474,
+        -0.0596165878159446
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.710893869789665,
+        -0.21852462643226198
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.07384900554449475,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.7006969301272361,
+          -0.06540903954488567
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.0592576182296047,
+      0.6304123150465402
+    ],
+    "minimum_physical_residual": 0.6437382150475607,
+    "OR_residuals": [
+      [
+        0.7006969301272361,
+        -0.06540903954488567
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.711164066838335,
+        -0.21091660192630715
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.06910388107851448,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.6700256286705386,
+          -0.06980843171277672
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.0076956194672997,
+      0.6083961053322361
+    ],
+    "minimum_physical_residual": 0.6449698352706342,
+    "OR_residuals": [
+      [
+        0.6700256286705386,
+        -0.06980843171277672
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.7098612634939058,
+        -0.20392505286986978
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.06483401775936624,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.6416259411080159,
+          -0.07307579920612928
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.9586541590513088,
+      0.5868742934514027
+    ],
+    "minimum_physical_residual": 0.6464285204319836,
+    "OR_residuals": [
+      [
+        0.6416259411080159,
+        -0.07307579920612928
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.7071765647597987,
+        -0.19745878105597023
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.06098061739963463,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.6153346115495777,
+          -0.07542468665068029
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.9120090174662455,
+      0.5658598926724037
+    ],
+    "minimum_physical_residual": 0.6480955419746209,
+    "OR_residuals": [
+      [
+        0.6153346115495777,
+        -0.07542468665068029
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.7032845919139876,
+        -0.19144254426401186
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.05749220727472798,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.5909732770709923,
+          -0.07702901715684356
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.8676421739441588,
+      0.545363071510684
+    ],
+    "minimum_physical_residual": 0.6499533097558917,
+    "OR_residuals": [
+      [
+        0.5909732770709923,
+        -0.07702901715684356
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6983430516894267,
+        -0.18581416189333136
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0543237886467946,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.5683624456890239,
+          -0.07803011959222456
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.8254414912372919,
+      0.525391404028782
+    ],
+    "minimum_physical_residual": 0.6519853084772237,
+    "OR_residuals": [
+      [
+        0.5683624456890239,
+        -0.07803011959222456
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6924931894314861,
+        -0.18052212524974262
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.05143607327580288,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.5473299284406384,
+          -0.07854274706081772
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.7853004168713756,
+      0.5059501048036913
+    ],
+    "minimum_physical_residual": 0.6541760376643545,
+    "OR_residuals": [
+      [
+        0.5473299284406384,
+        -0.07854274706081772
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6858607584140666,
+        -0.1755236418945953
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.04879480069961364,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.5277154981504071,
+          -0.07866010046489123
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.7471176999841875,
+      0.48704224902876836
+    ],
+    "minimum_physical_residual": 0.656510954970711,
+    "OR_residuals": [
+      [
+        0.5277154981504071,
+        -0.07866010046489123
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6785572551996402,
+        -0.1707830436808907
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.04637012929264032,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.5093730650048227,
+          -0.07845795372892478
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.7107971229051562,
+      0.468668978266757
+    ],
+    "minimum_physical_residual": 0.6589764225999787,
+    "OR_residuals": [
+      [
+        0.5093730650048227,
+        -0.07845795372892478
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6706812573423873,
+        -0.1662704944997757
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.044136094423105565,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4921712771744565,
+          -0.07799800630951258
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.6762472466797553,
+      0.4508296924069817
+    ],
+    "minimum_physical_residual": 0.6615596566616105,
+    "OR_residuals": [
+      [
+        0.4921712771744565,
+        -0.07799800630951258
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.662319760859122,
+        -0.16196094243236842
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.042063336357658604,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4776974342470464,
+          -0.07774258685535648
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.6433811697875236,
+      0.43352222840519905
+    ],
+    "minimum_physical_residual": 0.6658214353714725,
+    "OR_residuals": [
+      [
+        0.4776974342470464,
+        -0.07774258685535648
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6535494568163728,
+        -0.15783326991992597
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.040088850898261474,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.46663094076840783,
+          -0.07789717547688828
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.6119786388876324,
+      0.416853856016348
+    ],
+    "minimum_physical_residual": 0.6723464226677617,
+    "OR_residuals": [
+      [
+        0.46663094076840783,
+        -0.07789717547688828
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6445238481927353,
+        -0.15389003122184564
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0382113156473442,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.45644777119744784,
+          -0.07789428708826156
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.5817797322094815,
+      0.4009631427017779
+    ],
+    "minimum_physical_residual": 0.6787447351782105,
+    "OR_residuals": [
+      [
+        0.45644777119744784,
+        -0.07789428708826156
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6354232616019877,
+        -0.15014366100054705
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.03642777813514274,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.44699520561803746,
+          -0.07775285665675308
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.552736373124564,
+      0.3858149453022927
+    ],
+    "minimum_physical_residual": 0.6849664413470424,
+    "OR_residuals": [
+      [
+        0.44699520561803746,
+        -0.07775285665675308
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6262920833605534,
+        -0.14657765936662276
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.03473355961909205,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4381875867794144,
+          -0.07749906799698844
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.524807112597201,
+      0.37137221012389526
+    ],
+    "minimum_physical_residual": 0.691014133804843,
+    "OR_residuals": [
+      [
+        0.4381875867794144,
+        -0.07749906799698844
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6171653217863916,
+        -0.14317709432927983
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.03312416097490884,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4299522264406366,
+          -0.0771545624054185
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.49795253116278126,
+      0.35759966317379543
+    ],
+    "minimum_physical_residual": 0.6968915752668232,
+    "OR_residuals": [
+      [
+        0.4299522264406366,
+        -0.0771545624054185
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.6080723821134069,
+        -0.13992891924720735
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.03159530200985378,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4222264539933338,
+          -0.07673707364341263
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.47213503874473767,
+      0.3444638047633437
+    ],
+    "minimum_physical_residual": 0.7026025127846249,
+    "OR_residuals": [
+      [
+        0.4222264539933338,
+        -0.07673707364341263
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5990379322499984,
+        -0.13682168297337438
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.030142912128084738,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4149560999193276,
+          -0.076261164554454
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.44731877823742383,
+      0.3319328245801689
+    ],
+    "minimum_physical_residual": 0.7081506518545139,
+    "OR_residuals": [
+      [
+        0.4149560999193276,
+        -0.076261164554454
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5900825862719694,
+        -0.1338452800063059
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.028763120401177074,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4080942287555427,
+          -0.07573882027939735
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.4234695359083692,
+      0.3199765189463123
+    ],
+    "minimum_physical_residual": 0.7135396578155475,
+    "OR_residuals": [
+      [
+        0.4080942287555427,
+        -0.07573882027939735
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5812234859326165,
+        -0.13099074496439866
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.02745224610591694,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.40160006501226575,
+          -0.07517992335213448
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.40055465620405456,
+      0.30856621196721945
+    ],
+    "minimum_physical_residual": 0.718773157529153,
+    "OR_residuals": [
+      [
+        0.40160006501226575,
+        -0.07517992335213448
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5724747967003945,
+        -0.1282500830508868
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.02620678972679546,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3954380843561523,
+          -0.07459263554017763
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.3785429607403246,
+      0.2976746804224713
+    ],
+    "minimum_physical_residual": 0.723854740683008,
+    "OR_residuals": [
+      [
+        0.3954380843561523,
+        -0.07459263554017763
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5638481312560314,
+        -0.12561612962546587
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.025023424397330258,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.38957724565162966,
+          -0.07398370590083042
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.35740467131612047,
+      0.28727608221537576
+    ],
+    "minimum_physical_residual": 0.7287879607180596,
+    "OR_residuals": [
+      [
+        0.38957724565162966,
+        -0.07398370590083042
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5553529114565684,
+        -0.12308243340534908
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.02389898775523161,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3839903423707059,
+          -0.07335872023941914
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.3371113367951879,
+      0.2773458882078488
+    ],
+    "minimum_physical_residual": 0.7335763353982386,
+    "OR_residuals": [
+      [
+        0.3839903423707059,
+        -0.07335872023941914
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5469966781141183,
+        -0.12064315892668814
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.022830474187871187,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3786534547538885,
+          -0.07272230385148286
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.3176357637046079,
+      0.267860817276816
+    ],
+    "minimum_physical_residual": 0.7382233470461115,
+    "OR_residuals": [
+      [
+        0.3786534547538885,
+        -0.07272230385148286
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5387853565014892,
+        -0.11829300476748666
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.021815027445936136,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3735454867818938,
+          -0.07207828687854177
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.2989519504026984,
+      0.2587987744376251
+    ],
+    "minimum_physical_residual": 0.7427324424704462,
+    "OR_residuals": [
+      [
+        0.3735454867818938,
+        -0.07207828687854177
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5307234842673891,
+        -0.1160271347188121
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.02084993360453788,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.36864777442248786,
+          -0.07142983962998167
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.28103502467221453,
+      0.2501387918886645
+    ],
+    "minimum_physical_residual": 0.7471070326138775,
+    "OR_residuals": [
+      [
+        0.36864777442248786,
+        -0.07142983962998167
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5228144073988882,
+        -0.1138411196334585
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01993261435238875,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.36394375372572996,
+          -0.07077958368712285
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.2638611845978559,
+      0.24186097283954477
+    ],
+    "minimum_physical_residual": 0.7513504919505511,
+    "OR_residuals": [
+      [
+        0.36394375372572996,
+        -0.07077958368712285
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5150604489850767,
+        -0.11173088811183834
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.019060620590954657,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3594186791606657,
+          -0.07012968340741156
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.24740764259000392,
+      0.23394643799284048
+    ],
+    "minimum_physical_residual": 0.7554661576647916,
+    "OR_residuals": [
+      [
+        0.3594186791606657,
+        -0.07012968340741156
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5074630547911838,
+        -0.10969268452813319
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.018231626326732538,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3550593841390291,
+          -0.06948192150911764
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.2316525724194134,
+      0.2263772745565209
+    ],
+    "minimum_physical_residual": 0.7594573286424802,
+    "OR_residuals": [
+      [
+        0.3550593841390291,
+        -0.06948192150911764
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.5000229190263594,
+        -0.10772303317440918
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01744342284098417,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.35085407698542614,
+          -0.06883776168061546
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.21657505913030384,
+      0.2191364876708526
+    ],
+    "minimum_physical_residual": 0.7633272643069732,
+    "OR_residuals": [
+      [
+        0.35085407698542614,
+        -0.06883776168061546
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.49274009316273215,
+        -0.10581870752101591
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01669391312237669,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.34679216671909185,
+          -0.06819840057804849
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.20215505170205422,
+      0.2122079541397419
+    ],
+    "minimum_physical_residual": 0.7670791833310615,
+    "OR_residuals": [
+      [
+        0.34679216671909185,
+        -0.06819840057804849
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.48561408022238195,
+        -0.1039767037695038
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.015981106549034674,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3428641139389049,
+          -0.0675648111161465
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.18837331833247858,
+      0.2055763783622431
+    ],
+    "minimum_physical_residual": 0.770716262255703,
+    "OR_residuals": [
+      [
+        0.3428641139389049,
+        -0.0675648111161465
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.47864391657897387,
+        -0.10219421801826217
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01530311380749388,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.33906130287769276,
+          -0.06693777859257471
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.17521140421851522,
+      0.19922725036529673
+    ],
+    "minimum_physical_residual": 0.774241634045105,
+    "OR_residuals": [
+      [
+        0.33906130287769276,
+        -0.06693777859257471
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.47182824301038,
+        -0.10046862647802879
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.014658142036963515,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.33537593133779053,
+          -0.06631793089588775
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.16265159171313484,
+      0.19314680584372265
+    ],
+    "minimum_physical_residual": 0.7776583866062375,
+    "OR_residuals": [
+      [
+        0.33537593133779053,
+        -0.06631793089588775
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4651653664779759,
+        -0.09879746826976993
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.014044490188150745,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3318009157579559,
+          -0.06570576381503447
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.1506768627403472,
+      0.187321988118092
+    ],
+    "minimum_physical_residual": 0.7809695612990736,
+    "OR_residuals": [
+      [
+        0.3318009157579559,
+        -0.06570576381503447
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.458653313889225,
+        -0.09717843041541863
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01346054458667888,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.32832980910981374,
+          -0.06510166228211636
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.1392708633534056,
+      0.18174041192537033
+    ],
+    "minimum_physical_residual": 0.7841781514618418,
+    "OR_residuals": [
+      [
+        0.32832980910981374,
+        -0.06510166228211636
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4522898789158001,
+        -0.09560933469597954
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.012904774691841167,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.32495672969499434,
+          -0.06450591823013475
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.12841787032464314,
+      0.1763903289611894
+    ],
+    "minimum_physical_residual": 0.7872871009733813,
+    "OR_residuals": [
+      [
+        0.32495672969499434,
+        -0.06450591823013475
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4460726627841395,
+        -0.0940881261042329
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.012375729042076858,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.32167629922466595,
+          -0.06391874562630165
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.1181027596588563,
+      0.17126059509629088
+    ],
+    "minimum_physical_residual": 0.7902993028723834,
+    "OR_residuals": [
+      [
+        0.32167629922466595,
+        -0.06391874562630165
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4399991098242178,
+        -0.09261286266283253
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.011872031379138611,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.31848358882178884,
+          -0.063340293143256
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.108310976925735,
+      0.16634063919311814
+    ],
+    "minimum_physical_residual": 0.7932175980509146,
+    "OR_residuals": [
+      [
+        0.31848358882178884,
+        -0.063340293143256
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.43406653845145143,
+        -0.09118170641468615
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.011392376943443656,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3153740718019543,
+          -0.06277065485062902
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.09902850931053649,
+      0.1616204334517356
+    ],
+    "minimum_physical_residual": 0.7960447740372119,
+    "OR_residuals": [
+      [
+        0.3153740718019543,
+        -0.06277065485062902
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.42827216816276803,
+        -0.08979291542251688
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.010935528933569012,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3123435822684295,
+          -0.06220987924419891
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.09024185928598465,
+      0.15709046521725292
+    ],
+    "minimum_physical_residual": 0.7987835638803522,
+    "OR_residuals": [
+      [
+        0.3123435822684295,
+        -0.06220987924419891
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4226131430481863,
+        -0.08844483663951369
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.010500315123268152,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.30938827870708696,
+          -0.061657976876484416
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0819380198122347,
+      0.15274171018374247
+    ],
+    "minimum_physical_residual": 0.8014366451470659,
+    "OR_residuals": [
+      [
+        0.30938827870708696,
+        -0.061657976876484416
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4170865522514905,
+        -0.08713589953387829
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.010085624629756464,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3065046118922934,
+          -0.061114926808798736
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0741044509756405,
+      0.1485656069322859
+    ],
+    "minimum_physical_residual": 0.8040066390387213,
+    "OR_residuals": [
+      [
+        0.3065046118922934,
+        -0.061114926808798736
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4116894477558418,
+        -0.08586461036760512
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.009690404827341171,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.303689296519747,
+          -0.0605806820686529
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.06672905798100297,
+      0.1445540327432852
+    ],
+    "minimum_physical_residual": 0.8064961096343809,
+    "OR_residuals": [
+      [
+        0.303689296519747,
+        -0.0605806820686529
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.4064188598208537,
+        -0.08462954704452952
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.009313658400761132,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3009392860701253,
+          -0.06005517426657982
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.05980017041591103,
+      0.1406992806255412
+    ],
+    "minimum_physical_residual": 0.8089075632638432,
+    "OR_residuals": [
+      [
+        0.3009392860701253,
+        -0.06005517426657982
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.40127181035543347,
+        -0.08342935445509309
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.008954440532858956,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.29825175048113156,
+          -0.05953831750170936
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.053306522709711396,
+      0.13699403750685535
+    ],
+    "minimum_physical_residual": 0.8112434480127435,
+    "OR_residuals": [
+      [
+        0.29825175048113156,
+        -0.05953831750170936
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3962453244744785,
+        -0.08226274025571112
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.008611856221435238,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.29562405626744814,
+          -0.05903001166489963
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.047237235713537884,
+      0.13343136353305904
+    ],
+    "minimum_physical_residual": 0.8135061533601242,
+    "OR_residuals": [
+      [
+        0.29562405626744814,
+        -0.05903001166489963
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.39133644045635463,
+        -0.08112847102948684
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.00828505772033693,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2930537487802146,
+          -0.058530145231107916
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0415817993316598,
+      0.13000467242443184
+    ],
+    "minimum_physical_residual": 0.8156980099473803,
+    "OR_residuals": [
+      [
+        0.2930537487802146,
+        -0.058530145231107916
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3865422182912337,
+        -0.08002536878250466
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.00797324210001277,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.29053853634155247,
+          -0.058038597618408475
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.03633005613818044,
+      0.12670771284044466
+    ],
+    "minimum_physical_residual": 0.8178212894761653,
+    "OR_residuals": [
+      [
+        0.29053853634155247,
+        -0.058038597618408475
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.381859746987143,
+        -0.07895230773630202
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.007675648922931195,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2880762760267377,
+          -0.05755524117908613
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.03147218591678914,
+      0.1235345507056656
+    ],
+    "minimum_physical_residual": 0.8198782047316939,
+    "OR_residuals": [
+      [
+        0.2880762760267377,
+        -0.05755524117908613
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.37728615078048267,
+        -0.07790821138252296
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.007391558029403868,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.28566496089797955,
+          -0.057079942878219124
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.026998691064851227,
+      0.12047955245150062
+    ],
+    "minimum_physical_residual": 0.8218709097268933,
+    "OR_residuals": [
+      [
+        0.28566496089797955,
+        -0.057079942878219124
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.37281859438029097,
+        -0.07689204977038439
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.007120287429493485,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.28330270852033757,
+          -0.05661256570670667
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.02290038280658311,
+      0.11753736913021606
+    ],
+    "minimum_physical_residual": 0.8238014999620424,
+    "OR_residuals": [
+      [
+        0.28330270852033757,
+        -0.05661256570670667
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.36845428736033825,
+        -0.07590283700149858
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.006861191296810077,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2809877506128876,
+          -0.056152969868606094
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.019168368163404836,
+      0.11470292135940854
+    ],
+    "minimum_physical_residual": 0.8256720127938761,
+    "OR_residuals": [
+      [
+        0.2809877506128876,
+        -0.056152969868606094
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3641904877998597,
+        -0.07493962890998118
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.006613658060118148,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2787184237074591,
+          -0.05570101377663379
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.01579403763277462,
+      0.11197138505675527
+    ],
+    "minimum_physical_residual": 0.8274844279076099,
+    "OR_residuals": [
+      [
+        0.2787184237074591,
+        -0.05570101377663379
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.36002450526213203,
+        -0.07400152090863679
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0063771085887891635,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.276493160703659,
+          -0.05525655488461593
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.012769053529887942,
+      0.10933817792649655
+    ],
+    "minimum_physical_residual": 0.8292406678849663,
+    "OR_residuals": [
+      [
+        0.276493160703659,
+        -0.05525655488461593
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.35595370318992225,
+        -0.073087645984488
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.006150994468241745,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.27431048322291934,
+          -0.0548194503813819
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.010085338949563023,
+      0.10679894666067477
+    ],
+    "minimum_physical_residual": 0.8309425988610156,
+    "OR_residuals": [
+      [
+        0.27431048322291934,
+        -0.0548194503813819
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.35197550078789713,
+        -0.07219717282903321
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.005934796361616626,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2721689946763304,
+          -0.05438955776695053
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.007735067308429757,
+      0.10434955481968247
+    ],
+    "minimum_physical_residual": 0.8325920312624987,
+    "OR_residuals": [
+      [
+        0.2721689946763304,
+        -0.05438955776695053
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3480873744542128,
+        -0.07132930409043631
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.005728022454036298,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.27006737397134994,
+          -0.05396673532876721
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0057106524301909975,
+      0.10198607135815889
+    ],
+    "minimum_physical_residual": 0.8341907206202439,
+    "OR_residuals": [
+      [
+        0.27006737397134994,
+        -0.05396673532876721
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.34428685881655285,
+        -0.07048327473641927
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0055302069759004015,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2680043697913961,
+          -0.05355084253312356
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004004739139237288,
+      0.0997047597637166
+    ],
+    "minimum_physical_residual": 0.8357403684483247,
+    "OR_residuals": [
+      [
+        0.2680043697913961,
+        -0.05355084253312356
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.34057154742175244,
+        -0.06965835051798028
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.005340908801768627,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2659787953900256,
+          -0.053141740344655936
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.002610194330262169,
+      0.09750206777738318
+    ],
+    "minimum_physical_residual": 0.837242623182713,
+    "OR_residuals": [
+      [
+        0.2659787953900256,
+        -0.053141740344655936
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3369390931227009,
+        -0.06885382652522601
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.00515971012148323,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2639895238480803,
+          -0.05273929148491231
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.001520098483755875,
+      0.09537461766600541
+    ],
+    "minimum_physical_residual": 0.838699081172351,
+    "OR_residuals": [
+      [
+        0.2639895238480803,
+        -0.05273929148491231
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.33338720820140233,
+        -0.06806902582760987
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.004986215180283285,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.26203548374798213,
+          -0.05234336063935975
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0007277375993487356,
+      0.09331919701818323
+    ],
+    "minimum_physical_residual": 0.840111287715789,
+    "OR_residuals": [
+      [
+        0.26203548374798213,
+        -0.05234336063935975
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.32991366426278235,
+        -0.06730329819174749
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.004820049084763191,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.26011565522442126,
+          -0.051953814620816906
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0002265955209370761,
+      0.09133275003658332
+    ],
+    "minimum_physical_residual": 0.8414807381368022,
+    "OR_residuals": [
+      [
+        0.26011565522442126,
+        -0.051953814620816906
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3265162919300234,
+        -0.06655601887072973
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.004660856671628141,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.2582290663550988,
+          -0.05157052249611718
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.0346629361055593e-05,
+      0.08941236930072174
+    ],
+    "minimum_physical_residual": 0.8428088788926994,
+    "OR_residuals": [
+      [
+        0.2582290663550988,
+        -0.05157052249611718
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3231929803688155,
+        -0.0658265874595132
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.006122430917538111,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.24839973656012432,
+          -0.049692624310320975
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      7.284888011575656e-05,
+      0.087555287975506
+    ],
+    "minimum_physical_residual": 0.8372549344627191,
+    "OR_residuals": [
+      [
+        0.24839973656012432,
+        -0.049692624310320975
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3199416766648814,
+        -0.0651144268115375
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.012200610225266542,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.21486230510111487,
+          -0.043005197656140984
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.00039275839450554704,
+      0.08553944094537726
+    ],
+    "minimum_physical_residual": 0.811903540272375,
+    "OR_residuals": [
+      [
+        0.21486230510111487,
+        -0.043005197656140984
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3163614365224443,
+        -0.06434401279743873
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01892189797245855,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.17492043443035316,
+          -0.03494171605034775
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0008708442608125033,
+      0.08274824477578821
+    ],
+    "minimum_physical_residual": 0.7824994497996516,
+    "OR_residuals": [
+      [
+        0.17492043443035316,
+        -0.03494171605034775
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.31128268299013806,
+        -0.06327790737502736
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.023739831566230565,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.1371670148589959,
+          -0.027274957112708498
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0013924933209072516,
+      0.079097866787763
+    ],
+    "minimum_physical_residual": 0.7565063626773668,
+    "OR_residuals": [
+      [
+        0.1371670148589959,
+        -0.027274957112708498
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.3044600476187629,
+        -0.06186208518805117
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.026164703070898528,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.10717828227148901,
+          -0.02118138099501351
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0018790216489523316,
+      0.07475231126293008
+    ],
+    "minimum_physical_residual": 0.7384299538116125,
+    "OR_residuals": [
+      [
+        0.10717828227148901,
+        -0.02118138099501351
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.296090327143817,
+        -0.060133817088615926
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.026989652702114952,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.08636749383374051,
+          -0.016966672822179202
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0023017854372838205,
+      0.0700068188747977
+    ],
+    "minimum_physical_residual": 0.7290367444450843,
+    "OR_residuals": [
+      [
+        0.08636749383374051,
+        -0.016966672822179202
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.28663941518273467,
+        -0.05818731934638807
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.026895981247304447,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.07114629521892082,
+          -0.013899044063620233
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.002666712748773084,
+      0.06515523535886313
+    ],
+    "minimum_physical_residual": 0.7248422114543307,
+    "OR_residuals": [
+      [
+        0.07114629521892082,
+        -0.013899044063620233
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.2766205579461087,
+        -0.05612739031131753
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.026255463622152572,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.05945102300809263,
+          -0.011554636087782268
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0029814516839252675,
+      0.060365518993722785
+    ],
+    "minimum_physical_residual": 0.7238351814014086,
+    "OR_residuals": [
+      [
+        0.05945102300809263,
+        -0.011554636087782268
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.2663417863024111,
+        -0.05401702683389653
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.02528685530862059,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.05013457499262436,
+          -0.009696998122252463
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0032525412087118614,
+      0.0557328402728844
+    ],
+    "minimum_physical_residual": 0.7248836964168516,
+    "OR_residuals": [
+      [
+        0.05013457499262436,
+        -0.009696998122252463
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.2559924697037499,
+        -0.051894898010998475
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.024125907431529748,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.042511668005939446,
+          -0.008184673559879903
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0034854332867148485,
+      0.051311129848567075
+    ],
+    "minimum_physical_residual": 0.7273044232239199,
+    "OR_residuals": [
+      [
+        0.042511668005939446,
+        -0.008184673559879903
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.2456951119003811,
+        -0.0497859249631514
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.02286018272225425,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.036145530891407734,
+          -0.006927511496291269
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0036847040081032724,
+      0.047129578751118624
+    ],
+    "minimum_physical_residual": 0.7306590682716997,
+    "OR_residuals": [
+      [
+        0.036145530891407734,
+        -0.006927511496291269
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.23553180324918813,
+        -0.047706714406880735
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.02154764580276356,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.030743076027520605,
+          -0.005865090671032767
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0038542351738652674,
+      0.04320187255820887
+    ],
+    "minimum_physical_residual": 0.7346531370815751,
+    "OR_residuals": [
+      [
+        0.030743076027520605,
+        -0.005865090671032767
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.22555867698550397,
+        -0.04566853774265234
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.02022724392483092,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.026099321105050283,
+          -0.004955241438586527
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.003997353975858693,
+      0.03953171266852141
+    ],
+    "minimum_physical_residual": 0.7390815728217013,
+    "OR_residuals": [
+      [
+        0.026099321105050283,
+        -0.004955241438586527
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.21581439710165606,
+        -0.043679083197139285
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01892526745852891,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.022065954785880415,
+          -0.004167538139416269
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004116938786300586,
+      0.03611628953125607
+    ],
+    "minimum_physical_residual": 0.7437976072769032,
+    "OR_residuals": [
+      [
+        0.022065954785880415,
+        -0.004167538139416269
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.20632544062699726,
+        -0.04174354689786361
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0176593517612351,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.01853258811975736,
+          -0.0034794109761773356
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0042154997701188135,
+      0.03294855245162693
+    ],
+    "minimum_physical_residual": 0.7486939363455337,
+    "OR_residuals": [
+      [
+        0.01853258811975736,
+        -0.0034794109761773356
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.19710954273918635,
+        -0.039865344267184744
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01644109183673838,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.015415066788765891,
+          -0.0028737193771092573
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.00429524110385337,
+      0.03001873554613929
+    ],
+    "minimum_physical_residual": 0.7536908295813651,
+    "OR_residuals": [
+      [
+        0.015415066788765891,
+        -0.0028737193771092573
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.1881780313766353,
+        -0.03804659159413809
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.015277804639057644,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.012647907607681225,
+          -0.0023371806438043305
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004358109704944085,
+      0.027315404789514067
+    ],
+    "minimum_physical_residual": 0.7587283347964984,
+    "OR_residuals": [
+      [
+        0.012647907607681225,
+        -0.0023371806438043305
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.17953746022082764,
+        -0.03628844229189712
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.014173747682470471,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.010179244722694658,
+          -0.0018593198359634355
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004405833954746552,
+      0.024826186399656884
+    ],
+    "minimum_physical_residual": 0.763761002679358,
+    "OR_residuals": [
+      [
+        0.010179244722694658,
+        -0.0018593198359634355
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.17119078152501815,
+        -0.03459132783624838
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.013130979544556724,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.007967357752863113,
+          -0.0014317485790625029
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004439954894561486,
+      0.022538277462127724
+    ],
+    "minimum_physical_residual": 0.7687542179830702,
+    "OR_residuals": [
+      [
+        0.007967357752863113,
+        -0.0014317485790625029
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.16313820739553886,
+        -0.03295513419143323
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.012149977924801901,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.0059782280795219744,
+          -0.0010476578155441257
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004461851676632824,
+      0.020438804522716174
+    ],
+    "minimum_physical_residual": 0.7736815868728126,
+    "OR_residuals": [
+      [
+        0.0059782280795219744,
+        -0.0010476578155441257
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.15537785427306333,
+        -0.03137933338143478
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.011230089646836512,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.004183781556059918,
+          -0.0007014534552360063
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004472762567441067,
+      0.018515074215106786
+    ],
+    "minimum_physical_residual": 0.7785230375221275,
+    "OR_residuals": [
+      [
+        0.004183781556059918,
+        -0.0007014534552360063
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.1479062329089704,
+        -0.029863083137669513
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.01036986178922689,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.002560600520076617,
+          -0.0003884897377844296
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004473802460977437,
+      0.0167547461990349
+    ],
+    "minimum_physical_residual": 0.7832634139597546,
+    "OR_residuals": [
+      [
+        0.002560600520076617,
+        -0.0003884897377844296
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.14071862591491593,
+        -0.028405303358275125
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.009567287268522559,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.001088963540739396,
+          -0.00010487081885941774
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004465977618856441,
+      0.01514594964526128
+    ],
+    "minimum_physical_residual": 0.7878914183021737,
+    "OR_residuals": [
+      [
+        0.001088963540739396,
+        -0.00010487081885941774
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.13380938199359643,
+        -0.02700473542001175
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.008819987943313932,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.00024788156571120545,
+          0.000152699109231956
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004450198181127116,
+      0.013677358427284132
+    ],
+    "minimum_physical_residual": 0.7923988037381628,
+    "OR_residuals": [
+      [
+        -0.00024788156571120545,
+        0.000152699109231956
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.12717214741809668,
+        -0.025659988608612835
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.008125351515449634,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.001464275814896679,
+          0.00038703058239400456
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004427288865708879,
+      0.012338236003041868
+    ],
+    "minimum_physical_residual": 0.7967797510754873,
+    "OR_residuals": [
+      [
+        -0.001464275814896679,
+        0.00038703058239400456
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.12080004957089616,
+        -0.02436957673652311
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.007480633906412377,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.0025725829120389204,
+          0.0006005378332700449
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0043979981814974995,
+      0.011118458042392108
+    ],
+    "minimum_physical_residual": 0.8010303817305746,
+    "OR_residuals": [
+      [
+        -0.0025725829120389204,
+        0.0006005378332700449
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.11468584339177691,
+        -0.02313194719311172
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.006883035612636631,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.003583530445797678,
+          0.0007953085436175657
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004363006410814366,
+      0.010008518768801402
+    ],
+    "minimum_physical_residual": 0.8051483735470855,
+    "OR_residuals": [
+      [
+        -0.003583530445797678,
+        0.0007953085436175657
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.10882202880503486,
+        -0.021945504094684612
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.006329758313266619,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.004506481055247383,
+          0.0009731590991667906
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.00432293256443083,
+      0.008999525472845733
+    ],
+    "minimum_physical_residual": 0.8091326550868181,
+    "OR_residuals": [
+      [
+        -0.004506481055247383,
+        0.0009731590991667906
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.10320094521349471,
+        -0.02080862678952901
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.005818046411626422,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.005349650042098225,
+          0.001135678778601823
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004278340472303964,
+      0.008083184547148988
+    ],
+    "minimum_physical_residual": 0.8129831604909414,
+    "OR_residuals": [
+      [
+        -0.005349650042098225,
+        0.001135678778601823
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.09781484770954613,
+        -0.019719684674724028
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.005345217038503545,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.006120281573032613,
+          0.0012842654048155627
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004229744142172498,
+      0.007251781570552042
+    ],
+    "minimum_physical_residual": 0.8167006315804028,
+    "OR_residuals": [
+      [
+        -0.006120281573032613,
+        0.0012842654048155627
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.09265596859655842,
+        -0.018677049062171783
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.004908681199267181,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.006824792535929061,
+          0.0014201543432629596
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.00417761249396869,
+      0.006498157353700496
+    ],
+    "minimum_physical_residual": 0.8202864571480134,
+    "OR_residuals": [
+      [
+        -0.006824792535929061,
+        0.0014201543432629596
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.08771656702658985,
+        -0.017679102668118188
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0045059581187896856,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.0074688908908739915,
+          0.001544442268238834
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004122373558935768,
+      0.005815681393238873
+    ],
+    "minimum_physical_residual": 0.8237425417850415,
+    "OR_residuals": [
+      [
+        -0.0074688908908739915,
+        0.001544442268238834
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.08298896896645835,
+        -0.016724247177545642
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0041346843670154974,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.008057673733279966,
+          0.001658106779073458
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.004064418217177821,
+      0.005198223828082677
+    ],
+    "minimum_physical_residual": 0.827071198346697,
+    "OR_residuals": [
+      [
+        -0.008057673733279966,
+        0.001658106779073458
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.07846559925132726,
+        -0.015810909241257123
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0037926189912808714,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.008595709087130754,
+          0.0017620226981489955
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0040041035352113745,
+      0.0046401267206226315
+    ],
+    "minimum_physical_residual": 0.8302750594738786,
+    "OR_residuals": [
+      [
+        -0.008595709087130754,
+        0.0017620226981489955
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.07413900713595872,
+        -0.014937545191510429
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0034776456090840516,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.009087104550916283,
+          0.0018569756960053717
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.003941755755260466,
+      0.004136175277734587
+    ],
+    "minimum_physical_residual": 0.8333570045776754,
+    "OR_residuals": [
+      [
+        -0.009087104550916283,
+        0.0018569756960053717
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.07000188648225113,
+        -0.014102644706199097
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.003187772205447208,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.00953556524365172,
+          0.0019436737482405615
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0038776729800373963,
+      0.0036815694660923106
+    ],
+    "minimum_physical_residual": 0.8363200994456139,
+    "OR_residuals": [
+      [
+        -0.00953556524365172,
+        0.0019436737482405615
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.06604709150853624,
+        -0.013304733607821785
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0029211292167357415,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.00994444298449687,
+          0.0020227568220308155
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.0038121275901914853,
+      0.003271896352348962
+    ],
+    "minimum_physical_residual": 0.8391675462064725,
+    "OR_residuals": [
+      [
+        -0.00994444298449687,
+        0.0020227568220308155
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.06226764885741113,
+        -0.01254237594894956
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0026759663564147823,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.010316778244963756,
+          0.002094805108147319
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.003745368426194132,
+      0.0029031034028995455
+    ],
+    "minimum_physical_residual": 0.8419026418380294,
+    "OR_residuals": [
+      [
+        -0.010316778244963756,
+        0.002094805108147319
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.05865676660433292,
+        -0.011814175508424715
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.0024506485393010146,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.010655336107354044,
+          0.0021603460510260675
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.00367762276193713,
+      0.002571472903833343
+    ],
+    "minimum_physical_residual": 0.8445287437515514,
+    "OR_residuals": [
+      [
+        -0.010655336107354044,
+        0.0021603460510260675
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.05520784072112278,
+        -0.011118776800523554
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.002243651183110353,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -0.010962637224820097,
+          0.0022198603801060948
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      0.003609098093564841,
+      0.0022735976045069606
+    ],
+    "minimum_physical_residual": 0.847049241261799,
+    "OR_residuals": [
+      [
+        -0.010962637224820097,
+        0.0022198603801060948
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.0519144594211281,
+        -0.01045486568157674
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null
+  }
+]

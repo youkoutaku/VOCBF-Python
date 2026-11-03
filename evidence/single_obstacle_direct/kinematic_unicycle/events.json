@@ -1,0 +1,2442 @@
+[
+  {
+    "status": "ok",
+    "objective": 7822.346607148836,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      16.0,
+      0.0,
+      16.0,
+      0.0
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -0.7984866609350465,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.0,
+      0.0
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.04500000000000001,
+      -0.0457814546035136
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 6737.0876166084245,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      15.633240963666575,
+      0.002371664190004218,
+      15.633128323843465,
+      0.0020959415856135763
+    ],
+    "minimum_physical_residual": -1.1102230246251565e-16,
+    "OR_residuals": [
+      [
+        -0.8379142743273901,
+        1.3877787807814457e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.040017072219489136,
+        0.00010446609238383767
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.04500000000000001,
+      -0.0457814546035136
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.09000000000000005,
+      -0.0904913286534087
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 5746.353181080403,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      15.253647733634537,
+      0.009745590198273927,
+      15.252942976430084,
+      0.008188680561459227
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -0.8763493025823889,
+        -3.469446951953614e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.08027769358779682,
+        0.0005116141787850428
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.09000000000000005,
+      -0.0904913286534087
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.13500000000000006,
+      -0.132013864346386
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 4846.90627377321,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      14.862235990300668,
+      0.02185646311026403,
+      14.86012413733558,
+      0.017427660379666008
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -0.9138882243432538,
+        6.938893903907228e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.12069631217734705,
+        0.0011799932288082404
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.13500000000000006,
+      -0.132013864346386
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.18000000000000008,
+      -0.1684269056377622
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 4033.2916663054316,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      14.459962715205997,
+      0.03760813999993889,
+      14.455395914770186,
+      0.02836762254271165
+    ],
+    "minimum_physical_residual": -1.1102230246251565e-16,
+    "OR_residuals": [
+      [
+        -0.9507366554374872,
+        -2.7755575615628914e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.16117592026622862,
+        0.002046822584900118
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.18000000000000008,
+      -0.1684269056377622
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.2250000000000001,
+      -0.1981575787124794
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 3299.8285899202947,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      14.04768567668285,
+      0.05527987130427995,
+      14.039520099889275,
+      0.03926642600119247
+    ],
+    "minimum_physical_residual": -1.1102230246251565e-16,
+    "OR_residuals": [
+      [
+        -0.9871646795440274,
+        -2.7755575615628914e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.2016187960435801,
+        0.0030344862319789806
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.2250000000000001,
+      -0.1981575787124794
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.27000000000000013,
+      -0.22010129086461333
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 2642.437022839667,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      13.626148888739749,
+      0.07286559906680347,
+      13.613288929283204,
+      0.04844457824026912
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.0234497024814588,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.24193621792519154,
+        0.004058768469790988
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.27000000000000013,
+      -0.22010129086461333
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.3150000000000001,
+      -0.23369107551836663
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 2059.3541672969977,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      13.195995709612763,
+      0.08845552526560754,
+      13.177518244499666,
+      0.054611518776930934
+    ],
+    "minimum_physical_residual": -1.1102230246251565e-16,
+    "OR_residuals": [
+      [
+        -1.0598216334562869,
+        -2.7755575615628914e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.2820555806992888,
+        0.0050375284434650835
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.3150000000000001,
+      -0.23369107551836663
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.36000000000000015,
+      -0.23891224285827267
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1550.6030056707539,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      12.757804276376117,
+      0.10056457183714969,
+      12.733042263795571,
+      0.05707905978757026
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.0964231727954068,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.3219241534550866,
+        0.005898565679422638
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.36000000000000015,
+      -0.23891224285827267
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.4050000000000002,
+      -0.23626498342308974
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1116.7700442650043,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      12.312135194168258,
+      0.10833706498036536,
+      12.280710724254975,
+      0.05582114239191287
+    ],
+    "minimum_physical_residual": 1.1102230246251565e-16,
+    "OR_residuals": [
+      [
+        -1.1332923258201444,
+        2.7755575615628914e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.3615095694388134,
+        0.006585722589591947
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.4050000000000002,
+      -0.23626498342308974
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.4500000000000002,
+      -0.22668357630113545
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 757.8460836179162,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      11.859579958956143,
+      0.11159883843088221,
+      11.821388567674532,
+      0.051385443764672696
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.1703673830160173,
+        -2.7755575615628914e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.400797750316367,
+        0.007062668417212842
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.4500000000000002,
+      -0.22668357630113545
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.4950000000000002,
+      -0.2114246250650054
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 472.5972361579139,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      11.400800350351144,
+      0.11077100771545538,
+      11.355957803135675,
+      0.04470037208387811
+    ],
+    "minimum_physical_residual": -1.1102230246251565e-16,
+    "OR_residuals": [
+      [
+        -1.207508854074941,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.43978921507077495,
+        0.007314195152860192
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.4950000000000002,
+      -0.2114246250650054
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.5400000000000003,
+      -0.19193844062446552
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 258.42414313604536,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      10.936552889904148,
+      0.10669080218716943,
+      10.885320813156616,
+      0.036840364989351476
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.244529666614786,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.4784946467792318,
+        0.007345170834537479
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.5400000000000003,
+      -0.19193844062446552
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.5850000000000003,
+      -0.16973774410223935
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 111.45714791391885,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      10.467696954185332,
+      0.10039752302701746,
+      10.410404236143275,
+      0.02881090177291729
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.281224668818004,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5169303320693072,
+        0.007177532711699214
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.5850000000000003,
+      -0.16973774410223935
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.6300000000000003,
+      -0.14627663622106993
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 50.08466429162561,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      9.995188956157667,
+      0.09293640498812333,
+      9.93216263951078,
+      0.02139685430415123
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.2912479334456632,
+        2.7755575615628914e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5551138054095043,
+        0.0068458743793378685
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.6300000000000003,
+      -0.14627663622106993
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.6735000000000003,
+      -0.12256289074929495
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 21.64268950028507,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      9.529358113235237,
+      0.08500244611154975,
+      9.461034242448823,
+      0.015021662188823611
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.2876598304120663,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5917319858518286,
+        0.006365669335751195
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.6735000000000003,
+      -0.12256289074929495
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.7148250000000003,
+      -0.09983284039865832
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 5.646287165580977,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      9.07510852006608,
+      0.07738701321959841,
+      9.001912181032564,
+      0.009966596022063985
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.2834475796329508,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.626221424589361,
+        0.005787661340136668
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.7148250000000003,
+      -0.09983284039865832
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.7540837500000003,
+      -0.07914093368100333
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.35614121874343974,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      8.632480751643127,
+      0.07070450278609865,
+      8.554727942058179,
+      0.006263287383900968
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -1.278503019971795,
+        1.3877787807814457e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6587066655304481,
+        0.005173732054704422
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.7540837500000003,
+      -0.07914093368100333
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.7913795625000003,
+      -0.06109522553703014
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.2649531109385053,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -1.2514673307364186,
+          0.009182261968441324
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      8.201516882290054,
+      0.06525388642368643,
+      8.119420768367199,
+      0.0037326265834205794
+    ],
+    "minimum_physical_residual": 0.03363413234770085,
+    "OR_residuals": [
+      [
+        -1.2514673307364186,
+        0.009182261968441324
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6892905226541685,
+        0.004571773593604805
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.7913795625000003,
+      -0.06109522553703014
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.8251288777576153,
+      -0.047691675802688585
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.21544536214221957,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -1.2073449348782477,
+          0.00208756225327264
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      7.792015833080717,
+      0.06201204999747372,
+      7.705507034144816,
+      0.002274495940868752
+    ],
+    "minimum_physical_residual": 0.07000271447825901,
+    "OR_residuals": [
+      [
+        -1.2073449348782477,
+        0.00208756225327264
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7170307220404846,
+        0.004520399438263212
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.8251288777576153,
+      -0.047691675802688585
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.8553722981458216,
+      -0.03509642077510542
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.19646345461597628,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      7.403280333037412,
+      0.058937845233407025,
+      7.312919573641151,
+      0.0012317587512232515
+    ],
+    "minimum_physical_residual": 0.1048021082640912,
+    "OR_residuals": [
+      [
+        -1.1682903213541245,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7411475084633745,
+        0.0040895438679754426
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.8553722981458216,
+      -0.03509642077510542
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.8823635778253259,
+      -0.02474397792679172
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.25283052062987543,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      7.034289671155607,
+      0.05677021808240352,
+      6.940366202289455,
+      0.0006122644436415558
+    ],
+    "minimum_physical_residual": 0.1383190292166286,
+    "OR_residuals": [
+      [
+        -1.1313704602761268,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.76212344636636,
+        0.003609771006764073
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.8823635778253259,
+      -0.02474397792679172
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9063294474732283,
+      -0.01688570688633794
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.35794160331076774,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.684038093288176,
+      0.05565023293658053,
+      6.586708917429136,
+      0.0002851270970513206
+    ],
+    "minimum_physical_residual": 0.17085737893517144,
+    "OR_residuals": [
+      [
+        -1.0944470487931146,
+        6.938893903907228e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7802377864350092,
+        0.003210192208683682
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9063294474732283,
+      -0.01688570688633794
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9274701061528083,
+      -0.0110830170670095
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.48792488440928994,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.351549168777651,
+      0.05539721900253938,
+      6.250949865785563,
+      0.00012283326730762385
+    ],
+    "minimum_physical_residual": 0.20246114538297538,
+    "OR_residuals": [
+      [
+        -1.05737960872322,
+        3.469446951953614e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7956275957547845,
+        0.002882953233658919
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9274701061528083,
+      -0.0110830170670095
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9459735435760191,
+      -0.0069046484415385394
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.6275949829316175,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.035897068939545,
+      0.05584711256968551,
+      5.932151051075982,
+      4.767417010124058e-05
+    ],
+    "minimum_physical_residual": 0.23316673673250077,
+    "OR_residuals": [
+      [
+        -1.020007700340122,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8084124732028083,
+        0.0026167898234625564
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9459735435760191,
+      -0.0069046484415385394
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9620165295605931,
+      -0.003965503539315083
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.7689641894050405,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      5.736205023430828,
+      0.05686087017530071,
+      5.629428637962558,
+      1.5725218320320446e-05
+    ],
+    "minimum_physical_residual": 0.2630048653442564,
+    "OR_residuals": [
+      [
+        -0.9821464126655638,
+        4.336808689942018e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.818696628218919,
+        0.002399802467704215
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9620165295605931,
+      -0.003965503539315083
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9757654598153507,
+      -0.0019436281896201865
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.9089827241113051,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      5.451643417627949,
+      0.058326042828843676,
+      5.341948349811335,
+      3.777690539486244e-06
+    ],
+    "minimum_physical_residual": 0.292002286607599,
+    "OR_residuals": [
+      [
+        -0.9435808770643862,
+        1.734723475976807e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8265696831834661,
+        0.002221069748335025
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9757654598153507,
+      -0.0019436281896201865
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9873770724942031,
+      -0.0005827983480478229
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1.0476160303289417,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      5.181427631038741,
+      0.0601550311430199,
+      5.068921744409258,
+      3.3965391448727133e-07
+    ],
+    "minimum_physical_residual": 0.32018308445052535,
+    "OR_residuals": [
+      [
+        -0.9040596529637066,
+        -9.107298248878237e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8321064351833604,
+        0.002071393425718021
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9873770724942031,
+      -0.0005827983480478229
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9969990646469667,
+      0.0003131198594738
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1.1864739894372105,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.924815728573398,
+      0.062281903525592,
+      4.809603118910901,
+      9.804404639689227e-08
+    ],
+    "minimum_physical_residual": 0.34756952033275024,
+    "OR_residuals": [
+      [
+        -0.86328674661577,
+        3.469446951953614e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8353658081058473,
+        0.00194347685911056
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9969990646469667,
+      0.0003131198594738
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0047706353979808,
+      0.0008895707058287966
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1.3279291401213746,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.681106107823656,
+      0.06465876858468535,
+      4.563286846408127,
+      7.913360406687433e-07
+    ],
+    "minimum_physical_residual": 0.374182563777512,
+    "OR_residuals": [
+      [
+        -0.8209119695734413,
+        -7.806255641895632e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8363891617174178,
+        0.001831784662924274
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0047706353979808,
+      0.0008895707058287966
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0108229754392064,
+      0.0012515997491704517
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1.4745991108920284,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.449635183517268,
+      0.0672522291167039,
+      4.329305010871413,
+      1.5665019321235378e-06
+    ],
+    "minimum_physical_residual": 0.4000422223027734,
+    "OR_residuals": [
+      [
+        -0.7765193132951436,
+        4.336808689942018e-19
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8351980434322549,
+        0.0017322593210950255
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0108229754392064,
+      0.0012515997491704517
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0152797155521074,
+      0.001473425021761059
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1.629075636056732,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.229775164035626,
+      0.07004019164188185,
+      4.1070252584972335,
+      2.1709812947515776e-06
+    ],
+    "minimum_physical_residual": 0.425167758040201,
+    "OR_residuals": [
+      [
+        -0.7296130175757116,
+        -7.48099499014998e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8317913945019738,
+        0.0016420041226528348
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0152797155521074,
+      0.001473425021761059
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.018257341872492,
+      0.001606556965626104
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1.7938071378926141,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.020931951011285,
+      0.0730091528705661,
+      3.895848817527574,
+      2.5810252838017542e-06
+    ],
+    "minimum_physical_residual": 0.44957784768887854,
+    "OR_residuals": [
+      [
+        -0.6796010709832634,
+        2.7376104855258987e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8261421659412508,
+        0.0015589910912127136
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.018257341872492,
+      0.001606556965626104
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0198655823944236,
+      0.0016862817159485016
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 1.9710675125635093,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.82254317471633,
+      0.07615198706903906,
+      3.695208658959447,
+      2.843546025542223e-06
+    ],
+    "minimum_physical_residual": 0.47329072074462347,
+    "OR_residuals": [
+      [
+        -0.6257760541023828,
+        3.577867169202165e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8181932650239847,
+        0.0014818187213093692
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0198655823944236,
+      0.0016862817159485016
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0202077672374714,
+      0.0017366200105259557
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 2.1629651775448377,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.6340763657003246,
+      0.07946619783131378,
+      3.5045677820303656,
+      3.0158490609591704e-06
+    ],
+    "minimum_physical_residual": 0.4963242983442404,
+    "OR_residuals": [
+      [
+        -0.5672936130302809,
+        8.212831456577696e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.8078527447406003,
+        0.001409524395861672
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0202077672374714,
+      0.0017366200105259557
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0193811639583858,
+      0.0017740063562639414
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 2.37146211991079,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.4550272559884734,
+      0.08295256448114689,
+      3.3234176147405177,
+      3.147098552064866e-06
+    ],
+    "minimum_physical_residual": 0.5186963492837979,
+    "OR_residuals": [
+      [
+        -0.5031495841781297,
+        -2.8731357570865868e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7949881749921719,
+        0.0013414462986235387
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0193811639583858,
+      0.0017740063562639414
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0174772882962768,
+      0.0018099672142217436
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 2.5983826718624297,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.2849181996740673,
+      0.08661409918938219,
+      3.151276523424181,
+      3.275981316557619e-06
+    ],
+    "minimum_physical_residual": 0.5404246786372355,
+    "OR_residuals": [
+      [
+        -0.43215812670021675,
+        7.48099499014998e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7794202137576947,
+        0.0012771257783378287
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0174772882962768,
+      0.0018099672142217436
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0145821899496013,
+      0.001853060453816404
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 2.8453966879573125,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.1232967015548647,
+      0.09045522847983953,
+      2.9876884279661526,
+      3.4338330454982574e-06
+    ],
+    "minimum_physical_residual": 0.561527366597952,
+    "OR_residuals": [
+      [
+        -0.3529355277167452,
+        2.168404344971009e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7609155620511218,
+        0.0012162407068981584
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0145821899496013,
+      0.001853060453816404
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0107767121222235,
+      0.0019103016469163036
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 3.113962355808351,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      2.9697340424688696,
+      0.0944811157178748,
+      2.8322215215022823,
+      3.649252382211142e-06
+    ],
+    "minimum_physical_residual": 0.5820230803091329,
+    "OR_residuals": [
+      [
+        -0.26389814996990696,
+        5.421010862427522e-20
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7391797922037409,
+        0.0011585615850291803
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0107767121222235,
+      0.0019103016469163036
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0061367225006557,
+      0.001988263766352535
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 3.405210209157119,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      2.823823990376672,
+      0.0986970442953785,
+      2.6844670958587256,
+      3.953192804590368e-06
+    ],
+    "minimum_physical_residual": 0.6019314901629373,
+    "OR_residuals": [
+      [
+        -0.16328892457538371,
+        1.6263032587282567e-18
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.7138510654497169,
+        0.0011039239293666459
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0061367225006557,
+      0.001988263766352535
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      1.0007333118674762,
+      0.0020940053512682627
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.41473214966481825,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      2.6851815864261064,
+      0.1031077803201912,
+      2.544038477004036,
+      4.38485841114012e-06
+    ],
+    "minimum_physical_residual": 0.6743838872883875,
+    "OR_residuals": [
+      [
+        0.0,
+        -0.08465133191517722
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6844966087261739,
+        0.0010522123107190584
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      1.0007333118674762,
+      0.0020940053512682627
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.991977451909683,
+      0.04297039476294589
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.04437143756495553,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.007195376202801074,
+          -0.05737620908138938
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.552819552913756,
+      0.08030871692593716,
+      2.4188993489184534,
+      0.0018464548260834074
+    ],
+    "minimum_physical_residual": 0.5370537147147177,
+    "OR_residuals": [
+      [
+        0.007195376202801074,
+        -0.05737620908138938
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6485452463463464,
+        -0.003895830811600165
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.991977451909683,
+      0.04297039476294589
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.990525893578463,
+      0.05403427302944754
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.02257350149986212,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.14061306410821456,
+          -0.06735220331530117
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.407124717095264,
+      0.0762502969543422,
+      2.275528310168708,
+      0.002919702661820882
+    ],
+    "minimum_physical_residual": 0.5292992051029523,
+    "OR_residuals": [
+      [
+        0.14061306410821456,
+        -0.06735220331530117
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6132367684206966,
+        -0.0067740948202186235
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.990525893578463,
+      0.05403427302944754
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9895346386443922,
+      0.06437786990444444
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.0200697095562807,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.3046938971070355,
+          -0.0796909732268516
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.2643155634291703,
+      0.07242975039295863,
+      2.1353705039556448,
+      0.004144510133433573
+    ],
+    "minimum_physical_residual": 0.5289576813057768,
+    "OR_residuals": [
+      [
+        0.3046938971070355,
+        -0.0796909732268516
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5725314769922498,
+        -0.01004606171258983
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9895346386443922,
+      0.06437786990444444
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9886100226468837,
+      0.07405723303572911
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.017895628994817697,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.4986571924278141,
+          -0.09661980216732402
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.1255656341748055,
+      0.06880913554402662,
+      1.99960511310336,
+      0.005484473764908288
+    ],
+    "minimum_physical_residual": 0.5292749356311479,
+    "OR_residuals": [
+      [
+        0.4986571924278141,
+        -0.09661980216732402
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5251055930963365,
+        -0.013857728223955743
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9886100226468837,
+      0.07405723303572911
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9877157747329821,
+      0.08311112948442932
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.01600162464085948,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.726730995064784,
+          -0.12263245495298607
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.9910084086126802,
+      0.06537755786605694,
+      1.8683214806239445,
+      0.006907459844177577
+    ],
+    "minimum_physical_residual": 0.5296445651773333,
+    "OR_residuals": [
+      [
+        0.726730995064784,
+        -0.12263245495298607
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.46971983718694194,
+        -0.018503785679007415
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9877157747329821,
+      0.08311112948442932
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9868477577374662,
+      0.09157893550069929
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.014350436892659515,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.9964266636807209,
+          -0.16815041934127975
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.8606854677505873,
+      0.06212482944164536,
+      1.7415160516715371,
+      0.00838670142744124
+    ],
+    "minimum_physical_residual": 0.5300125774998345,
+    "OR_residuals": [
+      [
+        0.9964266636807209,
+        -0.16815041934127975
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.40493660798268966,
+        -0.024604117217647957
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9868477577374662,
+      0.09157893550069929
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9860047409756013,
+      0.09949837196926838
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.012910516974206518,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.3315481421624908,
+          -0.2643600088458856
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.7346294033292018,
+      0.05904133996754717,
+      1.61917911708449,
+      0.009899926024534891
+    ],
+    "minimum_physical_residual": 0.5303755177239345,
+    "OR_residuals": [
+      [
+        1.3315481421624908,
+        -0.2643600088458856
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.328732644714678,
+        -0.03365105172952173
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9860047409756013,
+      0.09949837196926838
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9851857280406245,
+      0.10690538987119207
+    ]
+  },
+  {
+    "status": "ok",
+    "objective": 0.011655002110471926,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.8797574018953063,
+          -0.5718510863941216
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      1.6128709872135119,
+      0.056118021517921696,
+      1.5013023173040458,
+      0.011428762383511575
+    ],
+    "minimum_physical_residual": 0.5307348488791691,
+    "OR_residuals": [
+      [
+        1.8797574018953063,
+        -0.5718510863941216
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.23606420420824184,
+        -0.05067749468150857
+      ]
+    ],
+    "dynamic_extension": true,
+    "input_semantics": "held acceleration, continuously ramped plant velocity command",
+    "plant_command_start": [
+      0.9851857280406245,
+      0.10690538987119207
+    ],
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null,
+    "plant_command_end": [
+      0.9843896991946349,
+      0.11383426006378794
+    ]
+  }
+]

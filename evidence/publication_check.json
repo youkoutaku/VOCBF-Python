@@ -1,0 +1,30 @@
+{
+  "created_at_utc": "2026-11-03T13:01:05.895297+00:00",
+  "passed": true,
+  "errors": [],
+  "public_files_checked": 97,
+  "local_markdown_links_checked": 47,
+  "new_demo_hashes_verified": true,
+  "historical_artifacts_unchanged": true,
+  "historical_source_changes": [
+    "src/vocbf/__main__.py"
+  ],
+  "historical_change_scope": "Only additive CLI dispatch differs; models, controllers, integration and original-problem code retain their recorded hashes.",
+  "actual_wheel_verification_passed": true,
+  "regression_tests_passed": 9,
+  "equation_checks": 246,
+  "four_model_single_obstacle_complete": true,
+  "independent_git_root": true,
+  "git_remotes": [],
+  "scope": "Local preparation only; no remote publication or CI claim.",
+  "readme_verification": "evidence/readme_verification.json",
+  "documentation_only_refresh": false,
+  "presentation_and_direct_evidence_refresh": true,
+  "no_waypoint_installed_wheel_outcomes": {
+    "single_integrator": "sampled_collision",
+    "double_integrator": "sampled_collision",
+    "kinematic_unicycle": "sampled_collision",
+    "dynamic_unicycle": "sampled_collision"
+  },
+  "no_waypoint_trajectory_equality_passed": true
+}

@@ -1,0 +1,104 @@
+{
+  "static": {
+    "id": "source_parameter_static",
+    "layout": "declared_mechanism_not_original_figure",
+    "initial": [
+      -0.13416407864998736,
+      3.9329179606750064,
+      0.4636476090008061,
+      0.0,
+      0.0
+    ],
+    "goal": [
+      12.0,
+      10.0
+    ],
+    "obstacles": [
+      [
+        5.0,
+        5.5
+      ],
+      [
+        8.0,
+        8.0
+      ]
+    ],
+    "obstacle_radii": [
+      0.6,
+      0.8
+    ],
+    "obstacle_velocities": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "robot_radius": 0.3,
+    "offset": 0.15,
+    "margin": 0.15,
+    "mass": 1.0,
+    "inertia": 1.0,
+    "F_max": 1.0,
+    "tau_max": 0.6,
+    "v_max": 4.0,
+    "omega_max": 0.5,
+    "dt": 0.05,
+    "horizon": 30.0,
+    "nominal": "source_four_clfs"
+  },
+  "moving": {
+    "id": "source_parameter_moving",
+    "layout": "declared_mechanism_not_original_figure",
+    "initial": [
+      -0.13416407864998736,
+      3.9329179606750064,
+      0.4636476090008061,
+      0.0,
+      0.0
+    ],
+    "goal": [
+      12.0,
+      10.0
+    ],
+    "obstacles": [
+      [
+        5.0,
+        5.5
+      ],
+      [
+        8.0,
+        8.0
+      ]
+    ],
+    "obstacle_radii": [
+      0.6,
+      0.8
+    ],
+    "obstacle_velocities": [
+      [
+        -0.5,
+        0.0
+      ],
+      [
+        -0.5,
+        0.0
+      ]
+    ],
+    "robot_radius": 0.3,
+    "offset": 0.15,
+    "margin": 0.15,
+    "mass": 1.0,
+    "inertia": 1.0,
+    "F_max": 1.0,
+    "tau_max": 0.6,
+    "v_max": 4.0,
+    "omega_max": 0.5,
+    "dt": 0.05,
+    "horizon": 30.0,
+    "nominal": "source_four_clfs"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "completed": true,
+  "examples": [
+    {
+      "case": "static",
+      "outcome": "design_clearance_violation",
+      "steps": 93,
+      "minimum_sampled_design_clearance": -0.0015115963296261636,
+      "final_goal_error": 5.00758154460064,
+      "source_equations_implemented": true,
+      "author_code_executed": false,
+      "exact_author_figure": false,
+      "offset": 0.15,
+      "held_physical_bounds_added": false,
+      "configuration": {
+        "gain": 1.0,
+        "clf_rate": 1.0,
+        "state_cbf_rate": 1.0,
+        "desired_speed_gain": 1.0,
+        "position_feedback": [
+          1.0,
+          1.0
+        ],
+        "position_coefficients": [
+          1.0,
+          1.0
+        ],
+        "heading_feedback": 1.0,
+        "input_increment_bounds": [
+          6.0,
+          3.0
+        ],
+        "physical_H_diagonal": [
+          1.0,
+          1.0
+        ],
+        "physical_R_diagonal": [
+          0.1,
+          0.1
+        ],
+        "clf_weights": [
+          100.0,
+          100.0,
+          1.0,
+          1.0
+        ],
+        "heading_chart": "literal_arctan"
+      }
+    },
+    {
+      "case": "moving",
+      "outcome": "design_clearance_violation",
+      "steps": 64,
+      "minimum_sampled_design_clearance": -0.003613307709450675,
+      "final_goal_error": 10.201309180227447,
+      "source_equations_implemented": true,
+      "author_code_executed": false,
+      "exact_author_figure": false,
+      "offset": 0.15,
+      "held_physical_bounds_added": false,
+      "configuration": {
+        "gain": 1.0,
+        "clf_rate": 1.0,
+        "state_cbf_rate": 1.0,
+        "desired_speed_gain": 1.0,
+        "position_feedback": [
+          1.0,
+          1.0
+        ],
+        "position_coefficients": [
+          1.0,
+          1.0
+        ],
+        "heading_feedback": 1.0,
+        "input_increment_bounds": [
+          6.0,
+          3.0
+        ],
+        "physical_H_diagonal": [
+          1.0,
+          1.0
+        ],
+        "physical_R_diagonal": [
+          0.1,
+          0.1
+        ],
+        "clf_weights": [
+          100.0,
+          100.0,
+          1.0,
+          1.0
+        ],
+        "heading_chart": "literal_arctan"
+      }
+    }
+  ],
+  "scope": "Original five-state model and paper equations; declared unspecified gains and mechanism geometry, not exact author figures."
+}

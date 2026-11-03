@@ -1,0 +1,37 @@
+{
+  "method": "vocbf",
+  "model": "kinematic_unicycle",
+  "model_extension": true,
+  "offset": 0.15,
+  "initial": [
+    -0.13416407864998736,
+    -0.06708203932499368,
+    0.4636476090008061
+  ],
+  "goal": [
+    4.0,
+    2.0
+  ],
+  "obstacles": [
+    [
+      2.0,
+      0.4
+    ]
+  ],
+  "inflated_radii": [
+    0.45
+  ],
+  "dt": 0.05,
+  "requested_steps": 400,
+  "executed_steps": 147,
+  "outcome": "goal_complete",
+  "final_goal_error": 0.06081456762332112,
+  "minimum_sampled_clearance": 0.08665664906371578,
+  "collision_sampled": false,
+  "solver_fallbacks": 0,
+  "verification": "21 independent DOP853 samples per hold; no interval enclosure or sampled-safety theorem claimed",
+  "python": "3.12.15",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "input_semantics": "control stores filter acceleration; plant commands are continuous velocity ramps recorded in events",
+  "dynamic_extension": true
+}

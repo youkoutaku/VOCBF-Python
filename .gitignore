@@ -1,0 +1,12 @@
+.venv/
+.upstream/
+.local-reference/
+runs/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.env

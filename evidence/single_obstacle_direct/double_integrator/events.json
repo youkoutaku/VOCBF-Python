@@ -1,0 +1,1792 @@
+[
+  {
+    "status": "ok",
+    "objective": 7744.45587491085,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      16.0,
+      0.0
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -0.7984866609350465,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 6639.500647314108,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.1472849372203537,
+          -2.055567676173331
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      15.63317706171914,
+      0.0020721586856763067
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.1472849372203537,
+        -2.055567676173331
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.039923161804299175,
+        -5.204170427930421e-18
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 5558.325846945124,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -2.2351460680988384,
+          1.4049813564327716
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      15.254431249937204,
+      0.009554109048528879
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -2.2351460680988384,
+        1.4049813564327716
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        0.019376194503310094,
+        -0.10271226760201344
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 4721.712032324348,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.087386620192074,
+          -2.0760352486097045
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      14.86009124804447,
+      0.018272158685676314
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.087386620192074,
+        -2.0760352486097045
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.09320935171603303,
+        -0.02749293769889635
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 3814.1572984808026,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -2.275273026576607,
+          1.3639338641040504
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      14.45682857513749,
+      0.03385410904852889
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -2.275273026576607,
+        1.3639338641040504
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.03435330130191812,
+        -0.12975059542039244
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 3138.9947711142277,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          1.0195199033321622,
+          -2.0887391509069464
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      14.03908757204714,
+      0.05067215868567633
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        1.0195199033321622,
+        -2.0887391509069464
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.14614281586618,
+        -0.05533687276462741
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2410.611618575345,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -2.3068847933797176,
+          1.314691986599911
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      13.614163288015117,
+      0.0743541090485289
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -2.3068847933797176,
+        1.314691986599911
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.08814649239152535,
+        -0.1567339849430009
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1894.6987315221397,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.9436969025720886,
+          -2.0936857691352633
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      13.175998033727158,
+      0.09927215868567638
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        0.9436969025720886,
+        -2.0936857691352633
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.19871031173733528,
+        -0.08353881816782266
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1345.6406462984687,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -2.3299386768960955,
+          1.2572293032978923
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      12.732510388570088,
+      0.131054109048529
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -2.3299386768960955,
+        1.2572293032978923
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.14199046727541137,
+        -0.18366937898696117
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 981.8255102771811,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.7411146012530796,
+          -1.9676551401526385
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      12.277140633084514,
+      0.16407215868567643
+    ],
+    "minimum_physical_residual": 1.1102230246251565e-16,
+    "OR_residuals": [
+      [
+        0.7411146012530796,
+        -1.9676551401526385
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.2508968836296025,
+        -0.11210688811161006
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 609.3990184202913,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -2.3502421190522473,
+          1.19763488745925
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      11.818141214217313,
+      0.20371601214650897
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -2.3502421190522473,
+        1.19763488745925
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.20177475560938862,
+        -0.20443891315191748
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 380.6443550378623,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.7622476566773679,
+          -2.074081337464013
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      11.349326210501216,
+      0.2451275892325725
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        0.7622476566773679,
+        -2.074081337464013
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.30858772538348644,
+        -0.13491874583373825
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 173.030869634939,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -2.3561256105272714,
+          1.1239655126985397
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      10.878643555380098,
+      0.2928160121465092
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -2.3561256105272714,
+        1.1239655126985397
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.2556826921127227,
+        -0.23129089214339954
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 69.86718310285721,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      10.399820989879496,
+      0.34232758923257267
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        0.0,
+        -1.3662573277993102
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.35997146200718433,
+        -0.1642200270207736
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 8.898747656342568,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          -2.3852056481982014,
+          1.076086282370822
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      9.919944283181998,
+      0.3971433225914204
+    ],
+    "minimum_physical_residual": 0.0,
+    "OR_residuals": [
+      [
+        -2.3852056481982014,
+        1.076086282370822
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.3424040965993277,
+        -0.22392936007067857
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 3.099661667177717,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      9.436855851482727,
+      0.456489430504933
+    ],
+    "minimum_physical_residual": 0.03779454171387464,
+    "OR_residuals": [
+      [
+        -1.3550717383692463,
+        8.326672684688674e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.4436838179136859,
+        -0.1596934982270024
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.9913100366554675,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      8.964900041240695,
+      0.517436400926233
+    ],
+    "minimum_physical_residual": 0.12800509089192136,
+    "OR_residuals": [
+      [
+        1.6653345369377348e-16,
+        -1.3713034148863599
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.4889988876762903,
+        -0.1519014726108377
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 3.0169098260445257,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      8.51750695994354,
+      0.5727779022310334
+    ],
+    "minimum_physical_residual": 0.19758857832072652,
+    "OR_residuals": [
+      [
+        -1.2838236604820255,
+        -8.326672684688674e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.4651845920970374,
+        -0.21232337429794315
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.916660734138248,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      8.09240672852938,
+      0.6276729928870272
+    ],
+    "minimum_physical_residual": 0.27443976375863055,
+    "OR_residuals": [
+      [
+        -1.1102230246251565e-16,
+        -1.3085131784760604
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5057985318364357,
+        -0.20196400725251215
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.797953424253127,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      7.689459076454532,
+      0.6775125358937859
+    ],
+    "minimum_physical_residual": 0.3381496327980601,
+    "OR_residuals": [
+      [
+        -1.2158361238662914,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.48117083550006184,
+        -0.25671392246412045
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.6661904645529955,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      7.30644171414395,
+      0.724677471075918
+    ],
+    "minimum_physical_residual": 0.3998681323941087,
+    "OR_residuals": [
+      [
+        -1.1828235932518583,
+        -2.7755575615628914e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5175282290791369,
+        -0.24419239745810456
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.5549171334383196,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.942868146039868,
+      0.7683513778356357
+    ],
+    "minimum_physical_residual": 0.45745215991699406,
+    "OR_residuals": [
+      [
+        -1.150026902848279,
+        8.326672684688674e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5504144674811862,
+        -0.23228405586322803
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.360552379599653,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.597727530103222,
+      0.8083959910353299
+    ],
+    "minimum_physical_residual": 0.3180448476696639,
+    "OR_residuals": [
+      [
+        -1.1102230246251565e-16,
+        -1.1817687684424751
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.580011388157335,
+        -0.22095976234200754
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.262535508831179,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      6.270554345956583,
+      0.8413248468264805
+    ],
+    "minimum_physical_residual": 0.565369239489624,
+    "OR_residuals": [
+      [
+        -1.087248052681331,
+        5.551115123125783e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5518030298310522,
+        -0.2683375196256649
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 2.1013433204091876,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      5.959398906709819,
+      0.8727002933451025
+    ],
+    "minimum_physical_residual": 0.6118781503389588,
+    "OR_residuals": [
+      [
+        -1.0557227396414526,
+        5.551115123125783e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5781292690338223,
+        -0.2552672559166975
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.9320423334529577,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      5.663962268508755,
+      0.9005493692843026
+    ],
+    "minimum_physical_residual": 0.30332515380572544,
+    "OR_residuals": [
+      [
+        -1.1102230246251565e-16,
+        -1.0992007934797496
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6015503056885514,
+        -0.24284127852426285
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.8138037365398227,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      5.383959720313817,
+      0.9214910863383112
+    ],
+    "minimum_physical_residual": 0.6164325707958931,
+    "OR_residuals": [
+      [
+        -0.99582556151422,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5723430299912973,
+        -0.2849505908356077
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.6618234269616834,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      5.117504940453203,
+      0.9411300466248352
+    ],
+    "minimum_physical_residual": 0.62400160669283,
+    "OR_residuals": [
+      [
+        -0.9647974360434699,
+        1.6653345369377348e-16
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5929855481633094,
+        -0.2711015017608962
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.539988598089958,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.864470034618141,
+      0.9577162073790271
+    ],
+    "minimum_physical_residual": 0.27860792419838554,
+    "OR_residuals": [
+      [
+        -1.1102230246251565e-16,
+        -1.0236960390704766
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6110177020078406,
+        -0.25794047688380756
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.4163446774503867,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.624742614831184,
+      0.9677728852287255
+    ],
+    "minimum_physical_residual": 0.59385647875471,
+    "OR_residuals": [
+      [
+        -0.9063075967056871,
+        -5.551115123125783e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5814258012721436,
+        -0.2954763666525997
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.284389291449516,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.396445808593002,
+      0.9770687701923091
+    ],
+    "minimum_physical_residual": 0.5978760780138551,
+    "OR_residuals": [
+      [
+        -0.8744716098786207,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5970129014941816,
+        -0.2811712838335488
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.2038984271044657,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      4.1796220762461775,
+      0.9839912007123031
+    ],
+    "minimum_physical_residual": 0.6003165214096005,
+    "OR_residuals": [
+      [
+        -0.8410858036104998,
+        -5.551115123125783e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6101738880218766,
+        -0.2675875936664053
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.0797600905457163,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.973690934520687,
+      0.988762761358551
+    ],
+    "minimum_physical_residual": 0.22254489166885627,
+    "OR_residuals": [
+      [
+        1.1102230246251565e-16,
+        -0.9214822187818763
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.620935062759426,
+        -0.2546949979435712
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 1.0368000326311226,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.778666835326354,
+      0.9851914787416015
+    ],
+    "minimum_physical_residual": 0.5541457610239808,
+    "OR_residuals": [
+      [
+        -0.7789011637737591,
+        -5.551115123125783e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5909950666792527,
+        -0.2872498598095168
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.9371305205546067,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.5928080772725273,
+      0.9842386511931013
+    ],
+    "minimum_physical_residual": 0.5479022448755055,
+    "OR_residuals": [
+      [
+        -0.7402144131140764,
+        5.551115123125783e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5994064517306171,
+        -0.2735016541819026
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.8642243962796133,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.4162925661000756,
+      0.9820268767574286
+    ],
+    "minimum_physical_residual": 0.18137531517827898,
+    "OR_residuals": [
+      [
+        1.1102230246251565e-16,
+        -0.8520253735704384
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.6053047161616891,
+        -0.26048714954819463
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.8452528278160715,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.249206954816882,
+      0.9710647829867318
+    ],
+    "minimum_physical_residual": 0.4741057552927884,
+    "OR_residuals": [
+      [
+        -0.6658132505541344,
+        0.0
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5762217095315959,
+        -0.28930656003622773
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.7811209894584604,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      3.0899193015498065,
+      0.9643235925477128
+    ],
+    "minimum_physical_residual": 0.4447772911208979,
+    "OR_residuals": [
+      [
+        -0.6122253467820693,
+        5.551115123125783e-17
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5791341815254596,
+        -0.2757548520147564
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.6763714061379849,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      2.938721357625735,
+      0.9576054881950501
+    ],
+    "minimum_physical_residual": 0.19092852994347875,
+    "OR_residuals": [
+      [
+        0.0,
+        -0.7589288452219785
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.578811877944985,
+        -0.2630408206694863
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.65615300820994,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      2.7953227338533138,
+      0.9403695155394614
+    ],
+    "minimum_physical_residual": 0.17234370876174854,
+    "OR_residuals": [
+      [
+        0.0,
+        -0.7754714762331624
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5507982168378683,
+        -0.2873807572273298
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.7361595748445027,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      2.6593221861342142,
+      0.9254540597680606
+    ],
+    "minimum_physical_residual": 0.14159216748454817,
+    "OR_residuals": [
+      [
+        0.0,
+        -0.8016834612636199
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.5241448073566954,
+        -0.3113979865827795
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.866802806514331,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      2.5304621392347415,
+      0.913596164498707
+    ],
+    "minimum_physical_residual": 0.09759520816270784,
+    "OR_residuals": [
+      [
+        -2.7755575615628914e-17,
+        -0.8405811463665229
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.49873833523078354,
+        -0.33565060063237206
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.975103277905008,
+    "solver": {
+      "algorithm": "exhaustive_original_VOCBF_union",
+      "enumerated_side_assignments": 2,
+      "feasible_side_assignments": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "clf_values": [
+      2.4085566671853598,
+      0.9058766858994712
+    ],
+    "minimum_physical_residual": 0.12665086023648597,
+    "OR_residuals": [
+      [
+        0.0,
+        -0.8664311570194196
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.4743262910183353,
+        -0.3609635381935461
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  },
+  {
+    "status": "ok",
+    "objective": 0.3292091111831567,
+    "solver": {
+      "algorithm": "physical_CLF_global_lower_bound_attained",
+      "enumerated_side_assignments": 0,
+      "original_OR_residuals": [
+        [
+          0.14743252115136807,
+          -0.6712522525241305
+        ]
+      ],
+      "optimality_argument": "superset optimum satisfies every original OR constraint; same feasible optimum and objective"
+    },
+    "clf_values": [
+      2.293214229097704,
+      0.9021504023815597
+    ],
+    "minimum_physical_residual": 0.6304582443685277,
+    "OR_residuals": [
+      [
+        0.14743252115136807,
+        -0.6712522525241305
+      ]
+    ],
+    "initial_VO_values": [
+      [
+        -0.4492663456679805,
+        -0.3881248116454674
+      ]
+    ],
+    "dynamic_extension": false,
+    "input_semantics": "held physical acceleration",
+    "plant_command_start": null,
+    "reference_target": [
+      4.0,
+      0.0
+    ],
+    "waypoint_index": null
+  }
+]

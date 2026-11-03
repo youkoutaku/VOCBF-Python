@@ -1,0 +1,513 @@
+{
+  "created_at_utc": "2026-11-03T12:56:40.671670+00:00",
+  "scenario": "single_obstacle",
+  "guidance": "direct",
+  "passed": false,
+  "results": [
+    {
+      "method": "vocbf",
+      "model": "single_integrator",
+      "scenario": "single_obstacle",
+      "model_extension": true,
+      "initial": [
+        0.0,
+        0.0
+      ],
+      "goal": [
+        4.0,
+        0.0
+      ],
+      "obstacles": [
+        [
+          2.0,
+          0.15
+        ]
+      ],
+      "inflated_radii": [
+        0.45
+      ],
+      "offset": 0.15,
+      "guidance": "direct",
+      "waypoints": [],
+      "waypoint_switch_distance": null,
+      "controller_parameters": {
+        "configured": {
+          "gain": 1.0,
+          "clf_rate": 1.0,
+          "state_cbf_rate": 1.0,
+          "desired_speed_gain": 1.0,
+          "position_feedback": [
+            1.0,
+            1.0
+          ],
+          "position_coefficients": [
+            1.0,
+            1.0
+          ],
+          "heading_feedback": 1.0,
+          "input_increment_bounds": [
+            6.0,
+            3.0
+          ],
+          "physical_H_diagonal": [
+            1.0,
+            1.0
+          ],
+          "physical_R_diagonal": [
+            0.1,
+            0.1
+          ],
+          "clf_weights": [
+            100.0,
+            100.0,
+            1.0,
+            1.0
+          ],
+          "heading_chart": "literal_arctan"
+        },
+        "effective": {
+          "gain": 1.0,
+          "clf_rate": 1.0,
+          "state_cbf_rate": 1.0,
+          "desired_speed_gain": 1.0,
+          "position_feedback": [
+            1.0,
+            1.0
+          ],
+          "position_coefficients": [
+            1.0,
+            1.0
+          ],
+          "heading_feedback": 1.0,
+          "input_increment_bounds": [
+            6.0,
+            3.0
+          ],
+          "physical_H_diagonal": [
+            1.0,
+            1.0
+          ],
+          "physical_R_diagonal": [
+            0.1,
+            0.1
+          ],
+          "clf_weights": [
+            100.0,
+            1.0
+          ],
+          "heading_chart": "literal_arctan"
+        },
+        "scope": "Effective is the configuration passed to the QP solver. The Cartesian adaptation overrides the four configured CLF weights with its two CLF weights; other constructor settings are retained."
+      },
+      "model_bounds": {
+        "vmax": 1.5,
+        "wmax": 1.8,
+        "amax": 0.9,
+        "alphamax": 1.5
+      },
+      "dt": 0.05,
+      "requested_steps": 1200,
+      "executed_steps": 44,
+      "duration_s": 2.2,
+      "outcome": "sampled_collision",
+      "final_goal_error": 2.40319299930368,
+      "minimum_sampled_clearance": -0.018424846954074536,
+      "collision_sampled": true,
+      "settled_dwell_s": 0.0,
+      "solver_fallbacks": 0,
+      "dynamic_extension": true,
+      "input_semantics": "held filter acceleration; continuously ramped plant velocity",
+      "goal_criterion": "body-center error < 0.15 m and speed < 0.08 m/s (Cartesian), or |v| and |omega| < 0.05 (unicycle), continuously at hold endpoints for 0.5 s",
+      "verification": "21 independent DOP853 samples per hold; no continuous-time safety proof",
+      "python": "3.12.15",
+      "platform": "macOS-27.0.1-arm64-arm-64bit"
+    },
+    {
+      "method": "vocbf",
+      "model": "double_integrator",
+      "scenario": "single_obstacle",
+      "model_extension": true,
+      "initial": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "goal": [
+        4.0,
+        0.0
+      ],
+      "obstacles": [
+        [
+          2.0,
+          0.15
+        ]
+      ],
+      "inflated_radii": [
+        0.45
+      ],
+      "offset": 0.15,
+      "guidance": "direct",
+      "waypoints": [],
+      "waypoint_switch_distance": null,
+      "controller_parameters": {
+        "configured": {
+          "gain": 1.0,
+          "clf_rate": 1.0,
+          "state_cbf_rate": 1.0,
+          "desired_speed_gain": 1.0,
+          "position_feedback": [
+            1.0,
+            1.0
+          ],
+          "position_coefficients": [
+            1.0,
+            1.0
+          ],
+          "heading_feedback": 1.0,
+          "input_increment_bounds": [
+            6.0,
+            3.0
+          ],
+          "physical_H_diagonal": [
+            1.0,
+            1.0
+          ],
+          "physical_R_diagonal": [
+            0.1,
+            0.1
+          ],
+          "clf_weights": [
+            100.0,
+            100.0,
+            1.0,
+            1.0
+          ],
+          "heading_chart": "literal_arctan"
+        },
+        "effective": {
+          "gain": 1.0,
+          "clf_rate": 1.0,
+          "state_cbf_rate": 1.0,
+          "desired_speed_gain": 1.0,
+          "position_feedback": [
+            1.0,
+            1.0
+          ],
+          "position_coefficients": [
+            1.0,
+            1.0
+          ],
+          "heading_feedback": 1.0,
+          "input_increment_bounds": [
+            6.0,
+            3.0
+          ],
+          "physical_H_diagonal": [
+            1.0,
+            1.0
+          ],
+          "physical_R_diagonal": [
+            0.1,
+            0.1
+          ],
+          "clf_weights": [
+            100.0,
+            1.0
+          ],
+          "heading_chart": "literal_arctan"
+        },
+        "scope": "Effective is the configuration passed to the QP solver. The Cartesian adaptation overrides the four configured CLF weights with its two CLF weights; other constructor settings are retained."
+      },
+      "model_bounds": {
+        "vmax": 1.5,
+        "wmax": 1.8,
+        "amax": 0.9,
+        "alphamax": 1.5
+      },
+      "dt": 0.05,
+      "requested_steps": 1200,
+      "executed_steps": 44,
+      "duration_s": 2.2,
+      "outcome": "sampled_collision",
+      "final_goal_error": 2.40319299930368,
+      "minimum_sampled_clearance": -0.018424846954074536,
+      "collision_sampled": true,
+      "settled_dwell_s": 0.0,
+      "solver_fallbacks": 0,
+      "dynamic_extension": false,
+      "input_semantics": "held physical acceleration",
+      "goal_criterion": "body-center error < 0.15 m and speed < 0.08 m/s (Cartesian), or |v| and |omega| < 0.05 (unicycle), continuously at hold endpoints for 0.5 s",
+      "verification": "21 independent DOP853 samples per hold; no continuous-time safety proof",
+      "python": "3.12.15",
+      "platform": "macOS-27.0.1-arm64-arm-64bit"
+    },
+    {
+      "method": "vocbf",
+      "model": "kinematic_unicycle",
+      "scenario": "single_obstacle",
+      "model_extension": true,
+      "initial": [
+        -0.15,
+        0.0,
+        0.0
+      ],
+      "goal": [
+        4.0,
+        0.0
+      ],
+      "obstacles": [
+        [
+          2.0,
+          0.15
+        ]
+      ],
+      "inflated_radii": [
+        0.45
+      ],
+      "offset": 0.15,
+      "guidance": "direct",
+      "waypoints": [],
+      "waypoint_switch_distance": null,
+      "controller_parameters": {
+        "configured": {
+          "gain": 1.0,
+          "clf_rate": 1.0,
+          "state_cbf_rate": 1.0,
+          "desired_speed_gain": 1.0,
+          "position_feedback": [
+            1.0,
+            1.0
+          ],
+          "position_coefficients": [
+            1.0,
+            1.0
+          ],
+          "heading_feedback": 1.0,
+          "input_increment_bounds": [
+            6.0,
+            3.0
+          ],
+          "physical_H_diagonal": [
+            1.0,
+            1.0
+          ],
+          "physical_R_diagonal": [
+            0.1,
+            0.1
+          ],
+          "clf_weights": [
+            100.0,
+            100.0,
+            1.0,
+            1.0
+          ],
+          "heading_chart": "literal_arctan"
+        },
+        "effective": {
+          "gain": 1.0,
+          "clf_rate": 1.0,
+          "state_cbf_rate": 1.0,
+          "desired_speed_gain": 1.0,
+          "position_feedback": [
+            1.0,
+            1.0
+          ],
+          "position_coefficients": [
+            1.0,
+            1.0
+          ],
+          "heading_feedback": 1.0,
+          "input_increment_bounds": [
+            6.0,
+            3.0
+          ],
+          "physical_H_diagonal": [
+            1.0,
+            1.0
+          ],
+          "physical_R_diagonal": [
+            0.1,
+            0.1
+          ],
+          "clf_weights": [
+            100.0,
+            100.0,
+            1.0,
+            1.0
+          ],
+          "heading_chart": "literal_arctan"
+        },
+        "scope": "Effective is the configuration passed to the QP solver. The Cartesian adaptation overrides the four configured CLF weights with its two CLF weights; other constructor settings are retained."
+      },
+      "model_bounds": {
+        "vmax": 1.5,
+        "wmax": 1.8,
+        "amax": 0.9,
+        "alphamax": 1.5
+      },
+      "dt": 0.05,
+      "requested_steps": 1200,
+      "executed_steps": 49,
+      "duration_s": 2.45,
+      "outcome": "sampled_collision",
+      "final_goal_error": 2.162472531527446,
+      "minimum_sampled_clearance": -0.0027958817062216923,
+      "collision_sampled": true,
+      "settled_dwell_s": 0.0,
+      "solver_fallbacks": 0,
+      "dynamic_extension": true,
+      "input_semantics": "held filter acceleration; continuously ramped plant velocity",
+      "goal_criterion": "body-center error < 0.15 m and speed < 0.08 m/s (Cartesian), or |v| and |omega| < 0.05 (unicycle), continuously at hold endpoints for 0.5 s",
+      "verification": "21 independent DOP853 samples per hold; no continuous-time safety proof",
+      "python": "3.12.15",
+      "platform": "macOS-27.0.1-arm64-arm-64bit"
+    },
+    {
+      "method": "vocbf",
+      "model": "dynamic_unicycle",
+      "scenario": "single_obstacle",
+      "model_extension": true,
+      "initial": [
+        -0.15,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "goal": [
+        4.0,
+        0.0
+      ],
+      "obstacles": [
+        [
+          2.0,
+          0.15
+        ]
+      ],
+      "inflated_radii": [
+        0.45
+      ],
+      "offset": 0.15,
+      "guidance": "direct",
+      "waypoints": [],
+      "waypoint_switch_distance": null,
+      "controller_parameters": {
+        "configured": {
+          "gain": 1.0,
+          "clf_rate": 1.0,
+          "state_cbf_rate": 1.0,
+          "desired_speed_gain": 1.0,
+          "position_feedback": [
+            1.0,
+            1.0
+          ],
+          "position_coefficients": [
+            1.0,
+            1.0
+          ],
+          "heading_feedback": 1.0,
+          "input_increment_bounds": [
+            6.0,
+            3.0
+          ],
+          "physical_H_diagonal": [
+            1.0,
+            1.0
+          ],
+          "physical_R_diagonal": [
+            0.1,
+            0.1
+          ],
+          "clf_weights": [
+            100.0,
+            100.0,
+            1.0,
+            1.0
+          ],
+          "heading_chart": "literal_arctan"
+        },
+        "effective": {
+          "gain": 1.0,
+          "clf_rate": 1.0,
+          "state_cbf_rate": 1.0,
+          "desired_speed_gain": 1.0,
+          "position_feedback": [
+            1.0,
+            1.0
+          ],
+          "position_coefficients": [
+            1.0,
+            1.0
+          ],
+          "heading_feedback": 1.0,
+          "input_increment_bounds": [
+            6.0,
+            3.0
+          ],
+          "physical_H_diagonal": [
+            1.0,
+            1.0
+          ],
+          "physical_R_diagonal": [
+            0.1,
+            0.1
+          ],
+          "clf_weights": [
+            100.0,
+            100.0,
+            1.0,
+            1.0
+          ],
+          "heading_chart": "literal_arctan"
+        },
+        "scope": "Effective is the configuration passed to the QP solver. The Cartesian adaptation overrides the four configured CLF weights with its two CLF weights; other constructor settings are retained."
+      },
+      "model_bounds": {
+        "vmax": 1.5,
+        "wmax": 1.8,
+        "amax": 0.9,
+        "alphamax": 1.5
+      },
+      "dt": 0.05,
+      "requested_steps": 1200,
+      "executed_steps": 49,
+      "duration_s": 2.45,
+      "outcome": "sampled_collision",
+      "final_goal_error": 2.162472531527446,
+      "minimum_sampled_clearance": -0.0027958817062216923,
+      "collision_sampled": true,
+      "settled_dwell_s": 0.0,
+      "solver_fallbacks": 0,
+      "dynamic_extension": false,
+      "input_semantics": "held physical acceleration",
+      "goal_criterion": "body-center error < 0.15 m and speed < 0.08 m/s (Cartesian), or |v| and |omega| < 0.05 (unicycle), continuously at hold endpoints for 0.5 s",
+      "verification": "21 independent DOP853 samples per hold; no continuous-time safety proof",
+      "python": "3.12.15",
+      "platform": "macOS-27.0.1-arm64-arm-64bit"
+    }
+  ],
+  "source_sha256": {
+    "__init__.py": "679c49ac47098c835e13d303df583f705e4f2ef008c6005b667cb52a4de3b7c9",
+    "__main__.py": "dd6f94b9938fcc54fe864b1f8c94a22622266f9cb529c0258ec92b880bee299b",
+    "controller.py": "a9e4b2441c339dcb46fdde3d1e10139656e14fdbcc440ac0599102d3ffc92866",
+    "models.py": "56cdee522bf2f8ae8d02e4bebaa79eb1de2e8e8c7c32dcced563d4690604d3e9",
+    "native_runner.py": "6fdd204c40911e32e6fc38ce351704a0417d956ff0e66be6a2a0e4c4c10f5f14",
+    "paper_reference.py": "92396545486f262a8925375f9ca414612eba698ee260051c7b0eb5cfb02acf48",
+    "qp.py": "7a4bcf5edf29bce0862688045de374d2b0d32fe3b09b4645af99c15a5b45837f",
+    "simulation.py": "3d84ca79e21d0d5630986b3902b894a49e8d19cf40765362a9c2bb5197be957e",
+    "single_obstacle.py": "cf5ff0b2a2629b63aef5fbd3ab9588e7d9881aeb0226535c59a4fa62a4806d17",
+    "symbolic_reference.py": "3db98fa48b2355ca0bb621799a1bee6351711c9a8242179e952807d3ea60899a",
+    "validation.py": "65080794b6c0e9649dd58cdb228fa2f0347073a14b4229331f00a1e9ca85442c",
+    "vocbf_intervals.py": "f7b8d42806d2b8c13151ad5d915ba352d159e9bc6075bca6a49a1b0f6a8d7526"
+  },
+  "dependency_versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "casadi": "3.8.2",
+    "clarabel": "0.11.1",
+    "matplotlib": "3.11.2",
+    "pillow": "13.0.0"
+  },
+  "scope": "Illustrative model extensions; guidance is recorded explicitly; no original-figure reproduction or comparative ranking"
+}

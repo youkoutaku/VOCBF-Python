@@ -1,0 +1,11 @@
+include README.md README_ZH.md LICENSE THIRD_PARTY_NOTICES.md LICENSE_STATUS.md CITATION.cff requirements-tested.txt
+recursive-include licenses *.txt
+recursive-include docs *.md
+recursive-include examples *.py
+recursive-include evidence *.json *.npz *.png *.gif
+recursive-include scripts *.py
+recursive-include tests *.py
+recursive-exclude .upstream *
+recursive-exclude .local-reference *
+recursive-exclude runs *
+exclude evidence/public_wheel_verification.json evidence/publication_check.json
